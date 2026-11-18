@@ -1,0 +1,52 @@
+version: 2
+
+models:
+  - name: gold_vendor_scorecard
+    description: "Executive 360-degree vendor scorecard with 4-pillar objective evaluation (Reliability 35%, Price 25%, Quality 25%, Compliance 15%)"
+    columns:
+      - name: vendor_id
+        description: "Unique Vendor ID"
+        tests:
+          - unique
+          - not_null
+      - name: vendor_name
+        description: "Vendor business name"
+        tests:
+          - not_null
+      - name: composite_performance_score
+        description: "Composite 0-100 score"
+        tests:
+          - not_null
+      - name: vendor_performance_tier
+        description: "Performance classification"
+        tests:
+          - accepted_values:
+              values: ['Tier 1 - Strategic Partner', 'Tier 2 - Preferred Supplier', 'Tier 3 - Operational Supplier', 'Tier 4 - High Risk / PIP Required']
+
+  - name: gold_procurement_spend
+    description: "Temporal spend breakdowns across departments and commodity categories"
+    columns:
+      - name: department_name
+        tests:
+          - not_null
+      - name: category_name
+        tests:
+          - not_null
+      - name: total_spend
+        tests:
+          - not_null
+
+  - name: gold_delivery_performance
+    description: "Detailed logistics and delivery delay analysis aggregated by vendor and carrier"
+
+  - name: gold_invoice_analysis
+    description: "Accounts Payable invoice discrepancies, 3-way match failures, and financial leakage"
+
+  - name: gold_compliance_status
+    description: "Regulatory document tracking and risk guardrails"
+
+  - name: gold_purchase_order_summary
+    description: "Granular summary of all enterprise purchase orders"
+
+  - name: gold_category_performance
+    description: "Category-level market spend and pricing benchmarks"

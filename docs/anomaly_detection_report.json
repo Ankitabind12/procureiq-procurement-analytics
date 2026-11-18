@@ -1,0 +1,167 @@
+{
+  "total_price_anomalies_flagged": 291,
+  "total_estimated_excess_price_exposure": 8318494.100000001,
+  "chronic_delay_vendors_count": 26,
+  "compliance_risk_alerts_count": 102,
+  "top_price_outliers_sample": [
+    {
+      "po_id": "PO-001898",
+      "vendor_name": "Summit Products Co",
+      "product_name": "Enterprise Rack Server 1U",
+      "unit_price": 6817.72,
+      "standard_cost": 4200.0,
+      "z_score": 4.615938367373787,
+      "potential_excess_cost": 654430.0
+    },
+    {
+      "po_id": "PO-001738",
+      "vendor_name": "Zenith Industries",
+      "product_name": "Machinery Vibration Diagnostic",
+      "unit_price": 3048.35,
+      "standard_cost": 1800.0,
+      "z_score": 4.786340068311719,
+      "potential_excess_cost": 624175.0
+    },
+    {
+      "po_id": "PO-002992",
+      "vendor_name": "Benchmark Products Co",
+      "product_name": "Enterprise Rack Server 1U",
+      "unit_price": 6682.74,
+      "standard_cost": 4200.0,
+      "z_score": 4.3727570707040595,
+      "potential_excess_cost": 620685.0
+    },
+    {
+      "po_id": "PO-003537",
+      "vendor_name": "Synergy Materials Group",
+      "product_name": "Managed Network Switch 48-Port (Variant #60)",
+      "unit_price": 3085.82,
+      "standard_cost": 2009.46,
+      "z_score": 3.9529366644668094,
+      "potential_excess_cost": 538180.0
+    },
+    {
+      "po_id": "PO-004973",
+      "vendor_name": "Precision Tech Solutions",
+      "product_name": "Precision Metrology Calibration (Variant #83)",
+      "unit_price": 1932.95,
+      "standard_cost": 1129.94,
+      "z_score": 4.907731090177101,
+      "potential_excess_cost": 401505.0
+    }
+  ],
+  "top_chronic_delay_vendors_sample": [
+    {
+      "vendor_id": "VND-0350",
+      "vendor_name": "Atlas Logistics Ltd 350",
+      "category_name": "Raw Industrial Materials",
+      "total_shipments": 9,
+      "ontime_count": 5.0,
+      "delayed_count": 4.0,
+      "delay_rate_pct": 44.44,
+      "avg_delay_days": 7.56,
+      "max_delay_days": 41,
+      "risk_flag": "DELIVERY_RELIABILITY_RISK"
+    },
+    {
+      "vendor_id": "VND-0495",
+      "vendor_name": "Pacific Tech Solutions",
+      "category_name": "Facilities & MRO",
+      "total_shipments": 11,
+      "ontime_count": 5.0,
+      "delayed_count": 6.0,
+      "delay_rate_pct": 54.55,
+      "avg_delay_days": 6.27,
+      "max_delay_days": 41,
+      "risk_flag": "DELIVERY_RELIABILITY_RISK"
+    },
+    {
+      "vendor_id": "VND-0456",
+      "vendor_name": "Summit Supply Corp 456",
+      "category_name": "Industrial Machinery & Tools",
+      "total_shipments": 8,
+      "ontime_count": 4.0,
+      "delayed_count": 4.0,
+      "delay_rate_pct": 50.0,
+      "avg_delay_days": 6.25,
+      "max_delay_days": 18,
+      "risk_flag": "DELIVERY_RELIABILITY_RISK"
+    },
+    {
+      "vendor_id": "VND-0294",
+      "vendor_name": "Global Engineering",
+      "category_name": "IT Hardware & Cloud Infrastructure",
+      "total_shipments": 5,
+      "ontime_count": 3.0,
+      "delayed_count": 2.0,
+      "delay_rate_pct": 40.0,
+      "avg_delay_days": 5.2,
+      "max_delay_days": 25,
+      "risk_flag": "DELIVERY_RELIABILITY_RISK"
+    },
+    {
+      "vendor_id": "VND-0102",
+      "vendor_name": "Benchmark Holdings",
+      "category_name": "Raw Industrial Materials",
+      "total_shipments": 9,
+      "ontime_count": 5.0,
+      "delayed_count": 4.0,
+      "delay_rate_pct": 44.44,
+      "avg_delay_days": 4.67,
+      "max_delay_days": 14,
+      "risk_flag": "DELIVERY_RELIABILITY_RISK"
+    }
+  ],
+  "urgent_compliance_expiries_sample": [
+    {
+      "compliance_id": "CMP-0248",
+      "vendor_id": "VND-0248",
+      "vendor_name": "Sterling International 248",
+      "document_type": "ISO 9001 (Quality Management)",
+      "expiry_date": "2025-05-19 00:00:00",
+      "compliance_risk_tier": "HIGH RISK - EXPIRED",
+      "audit_score": 44,
+      "auditor_name": "DNV GL"
+    },
+    {
+      "compliance_id": "CMP-0465",
+      "vendor_id": "VND-0465",
+      "vendor_name": "Atlas Components 465",
+      "document_type": "ISO 14001 (Environmental Management)",
+      "expiry_date": "2025-05-26 00:00:00",
+      "compliance_risk_tier": "HIGH RISK - EXPIRED",
+      "audit_score": 42,
+      "auditor_name": "DNV GL"
+    },
+    {
+      "compliance_id": "CMP-0262",
+      "vendor_id": "VND-0262",
+      "vendor_name": "Nexus Products Co",
+      "document_type": "ISO 14001 (Environmental Management)",
+      "expiry_date": "2025-05-27 00:00:00",
+      "compliance_risk_tier": "HIGH RISK - EXPIRED",
+      "audit_score": 42,
+      "auditor_name": "Bureau Veritas"
+    },
+    {
+      "compliance_id": "CMP-0330",
+      "vendor_id": "VND-0330",
+      "vendor_name": "Summit Engineering",
+      "document_type": "Commercial General Liability Insurance",
+      "expiry_date": "2025-05-27 00:00:00",
+      "compliance_risk_tier": "HIGH RISK - EXPIRED",
+      "audit_score": 51,
+      "auditor_name": "SGS Global"
+    },
+    {
+      "compliance_id": "CMP-0173",
+      "vendor_id": "VND-0173",
+      "vendor_name": "Synergy Industries",
+      "document_type": "Supplier Code of Conduct & ESG Attestation",
+      "expiry_date": "2025-05-30 00:00:00",
+      "compliance_risk_tier": "HIGH RISK - EXPIRED",
+      "audit_score": 47,
+      "auditor_name": "T\u00dcV S\u00dcD"
+    }
+  ]
+}

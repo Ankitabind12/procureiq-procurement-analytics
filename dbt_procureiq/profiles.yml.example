@@ -1,0 +1,23 @@
+# dbt connection profiles template for ProcureIQ
+# Copy to ~/.dbt/profiles.yml or pass via --profiles-dir .
+
+procureiq_dw:
+  target: dev
+  outputs:
+    # Target 1: Local DuckDB Embedded Warehouse (zero-config, high-performance OLAP)
+    dev:
+      type: duckdb
+      path: '../procureiq_dw.duckdb'
+      threads: 4
+
+    # Target 2: Enterprise PostgreSQL Data Warehouse
+    postgres_prod:
+      type: postgres
+      host: "{{ env_var('POSTGRES_HOST', 'localhost') }}"
+      user: "{{ env_var('POSTGRES_USER', 'postgres') }}"
+      password: "{{ env_var('POSTGRES_PASSWORD', '') }}"
+      port: "{{ env_var('POSTGRES_PORT', '5432') | int }}"
+      dbname: "{{ env_var('POSTGRES_DB', 'procureiq_dw') }}"
+      schema: public
+      threads: 4
+      keepalives_idle: 0

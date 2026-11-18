@@ -1,0 +1,8 @@
+category_id,category_name,spend_tier,active_suppliers_count,active_skus_count,total_orders_placed,total_category_spend,avg_unit_price,avg_order_quantity,_gold_updated_at
+CAT-007,Professional & Engineering Services,Tier 2 - Operational,82,100,816,89288881.9,486.1,127.02,2026-11-18 13:27:40.817312+05:30
+CAT-004,Packaging & Freight Supplies,Tier 2 - Operational,76,100,780,96167937.95,512.1,126.39,2026-11-18 13:27:40.817312+05:30
+CAT-003,Electronic & Electrical,Tier 2 - Operational,65,100,663,74722328.0,478.91,127.08,2026-11-18 13:27:40.817312+05:30
+CAT-002,Industrial Machinery & Tools,Tier 1 - Strategic,72,100,700,73250269.9,487.73,133.32,2026-11-18 13:27:40.817312+05:30
+CAT-006,Facilities & MRO,Tier 3 - Tactical,65,100,644,77998470.05,505.68,133.91,2026-11-18 13:27:40.817312+05:30
+CAT-005,IT Hardware & Cloud Infrastructure,Tier 1 - Strategic,74,100,733,73973629.5,470.35,122.86,2026-11-18 13:27:40.817312+05:30
+CAT-001,Raw Industrial Materials,Tier 1 - Strategic,66,100,664,71118033.25,496.19,129.34,2026-11-18 13:27:40.817312+05:30

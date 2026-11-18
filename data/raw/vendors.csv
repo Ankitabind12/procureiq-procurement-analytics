@@ -1,0 +1,501 @@
+vendor_id,vendor_name,primary_category_id,country,city,contact_email,payment_terms,risk_rating,vendor_status,registration_date,delivery_reliability_bias,price_competitiveness_bias,quality_defect_rate_bias,data_source_type
+VND-0001,Crest Products Co,CAT-003,India,Mumbai,contact@crest1.com,Net 45,Low,Active,2023-02-28,0.9448,1.1218,0.0165,SYNTHETIC_BUSINESS_SIMULATION
+VND-0002,Synergy Tech Solutions,CAT-005,Singapore,Singapore,contact@synergy2.com,Net 45,Low,Active,2020-06-25,0.8566,1.1263,0.0315,SYNTHETIC_BUSINESS_SIMULATION
+VND-0003,Nexus Components,CAT-001,UK,Birmingham,contact@nexus3.com,Net 60,Low,Under Review,2022-01-04,0.8331,1.0434,0.013,SYNTHETIC_BUSINESS_SIMULATION
+VND-0004,Sterling Products Co,CAT-002,Japan,Tokyo,contact@sterling4.com,Net 30,Low,Active,2020-10-03,0.8334,0.862,0.0116,SYNTHETIC_BUSINESS_SIMULATION
+VND-0005,Precision Global Trade,CAT-007,Mexico,Monterrey,contact@precision5.com,Net 30,Low,Active,2023-03-05,0.7892,0.887,0.042,SYNTHETIC_BUSINESS_SIMULATION
+VND-0006,Pacific Enterprises,CAT-002,UK,Birmingham,contact@pacific6.com,Net 60,Low,Active,2023-10-14,0.8574,0.9564,0.0217,SYNTHETIC_BUSINESS_SIMULATION
+VND-0007,Summit Products Co,CAT-007,UK,Birmingham,contact@summit7.com,Net 45,Low,Active,2021-07-22,0.8199,0.9767,0.011,SYNTHETIC_BUSINESS_SIMULATION
+VND-0008,Synergy Materials Group,CAT-005,Mexico,Monterrey,contact@synergy8.com,2/10 Net 30,Low,Active,2019-04-08,0.99,1.0658,0.0017,SYNTHETIC_BUSINESS_SIMULATION
+VND-0009,Precision Materials Group,CAT-005,USA,Chicago,contact@precision9.com,Net 45,Low,Active,2023-04-01,0.7472,1.0157,0.0311,SYNTHETIC_BUSINESS_SIMULATION
+VND-0010,Precision Global Trade 10,CAT-001,Singapore,Singapore,contact@precision10.com,Net 45,Low,Active,2019-01-28,0.8971,0.9907,0.0155,SYNTHETIC_BUSINESS_SIMULATION
+VND-0011,Optima Supply Corp,CAT-002,UK,Birmingham,contact@optima11.com,Net 60,Low,Active,2022-04-18,0.8339,1.0846,0.0252,SYNTHETIC_BUSINESS_SIMULATION
+VND-0012,Pinnacle Global Trade,CAT-005,Netherlands,Rotterdam,contact@pinnacle12.com,2/10 Net 30,Low,Active,2020-08-26,0.7037,0.9458,0.0292,SYNTHETIC_BUSINESS_SIMULATION
+VND-0013,Omega Manufacturing,CAT-001,USA,Houston,contact@omega13.com,2/10 Net 30,Low,Active,2021-07-14,0.9831,1.0745,0.0074,SYNTHETIC_BUSINESS_SIMULATION
+VND-0014,Matrix Fabricators,CAT-001,India,Mumbai,contact@matrix14.com,Net 30,Medium,Active,2019-07-24,0.8491,0.9617,0.0172,SYNTHETIC_BUSINESS_SIMULATION
+VND-0015,Optima Systems Inc,CAT-002,USA,Houston,contact@optima15.com,Net 45,Low,Active,2020-09-15,0.9613,1.1085,0.0189,SYNTHETIC_BUSINESS_SIMULATION
+VND-0016,Pinnacle International,CAT-003,USA,Detroit,contact@pinnacle16.com,2/10 Net 30,Low,Active,2020-02-15,0.9804,1.0289,0.0431,SYNTHETIC_BUSINESS_SIMULATION
+VND-0017,Dynamic Supply Corp,CAT-006,USA,Chicago,contact@dynamic17.com,Net 30,Medium,Active,2019-04-06,0.618,1.0658,0.0213,SYNTHETIC_BUSINESS_SIMULATION
+VND-0018,Omega Enterprises,CAT-002,Mexico,Monterrey,contact@omega18.com,2/10 Net 30,Low,Active,2019-03-13,0.8501,0.9824,0.0254,SYNTHETIC_BUSINESS_SIMULATION
+VND-0019,Apex International,CAT-007,Japan,Tokyo,contact@apex19.com,2/10 Net 30,Low,Active,2021-07-23,0.7992,0.9599,0.0337,SYNTHETIC_BUSINESS_SIMULATION
+VND-0020,Crest Systems Inc,CAT-006,UK,Birmingham,contact@crest20.com,2/10 Net 30,Medium,Active,2020-04-10,0.9129,1.0078,0.0345,SYNTHETIC_BUSINESS_SIMULATION
+VND-0021,Summit Industries,CAT-006,Netherlands,Rotterdam,contact@summit21.com,Net 30,Medium,Active,2021-01-02,0.8098,0.9738,0.0141,SYNTHETIC_BUSINESS_SIMULATION
+VND-0022,Benchmark Enterprises,CAT-007,UK,Birmingham,contact@benchmark22.com,Net 45,Medium,Active,2019-09-03,0.7336,1.0004,0.0165,SYNTHETIC_BUSINESS_SIMULATION
+VND-0023,Nexus Supply Corp,CAT-001,Netherlands,Rotterdam,contact@nexus23.com,Net 45,Low,Active,2022-02-19,0.8457,0.9358,0.0176,SYNTHETIC_BUSINESS_SIMULATION
+VND-0024,Zenith Engineering,CAT-001,Netherlands,Rotterdam,contact@zenith24.com,Net 30,Low,Active,2022-11-19,0.9204,1.0206,0.0189,SYNTHETIC_BUSINESS_SIMULATION
+VND-0025,Benchmark Components,CAT-003,South Korea,Seoul,contact@benchmark25.com,Net 45,High,Active,2021-04-09,0.6881,0.9979,0.0209,SYNTHETIC_BUSINESS_SIMULATION
+VND-0026,Quantum Logistics Ltd,CAT-006,Singapore,Singapore,contact@quantum26.com,Net 60,Low,Active,2022-06-25,0.99,0.9846,0.0245,SYNTHETIC_BUSINESS_SIMULATION
+VND-0027,Precision Industries,CAT-005,Mexico,Monterrey,contact@precision27.com,Net 30,Low,Active,2019-09-07,0.99,1.0602,0.0319,SYNTHETIC_BUSINESS_SIMULATION
+VND-0028,Integrity Tech Solutions,CAT-003,USA,Detroit,contact@integrity28.com,Net 30,Low,Active,2020-06-10,0.7891,1.0469,0.0529,SYNTHETIC_BUSINESS_SIMULATION
+VND-0029,Nexus Enterprises,CAT-006,UK,Birmingham,contact@nexus29.com,Net 60,Low,Active,2023-11-17,0.7809,0.9547,0.0215,SYNTHETIC_BUSINESS_SIMULATION
+VND-0030,Apex Holdings,CAT-003,UK,Birmingham,contact@apex30.com,Net 30,Low,Active,2020-05-04,0.8297,0.8759,0.021,SYNTHETIC_BUSINESS_SIMULATION
+VND-0031,Titan Global Trade,CAT-002,UK,Birmingham,contact@titan31.com,Net 60,Low,Active,2021-10-07,0.7881,1.124,0.0083,SYNTHETIC_BUSINESS_SIMULATION
+VND-0032,Atlas Materials Group,CAT-006,Germany,Frankfurt,contact@atlas32.com,Net 60,High,Active,2023-08-09,0.8478,1.0651,0.0015,SYNTHETIC_BUSINESS_SIMULATION
+VND-0033,Vanguard Supply Corp,CAT-004,Singapore,Singapore,contact@vanguard33.com,Net 60,Medium,Active,2019-01-11,0.7193,1.0148,0.0239,SYNTHETIC_BUSINESS_SIMULATION
+VND-0034,Pinnacle Holdings,CAT-002,Japan,Tokyo,contact@pinnacle34.com,2/10 Net 30,Low,Active,2023-12-14,0.9582,1.0418,0.0245,SYNTHETIC_BUSINESS_SIMULATION
+VND-0035,Dynamic Industries,CAT-001,USA,Houston,contact@dynamic35.com,Net 45,Medium,Active,2023-01-27,0.812,1.0186,0.0244,SYNTHETIC_BUSINESS_SIMULATION
+VND-0036,Sterling Engineering,CAT-002,UK,Birmingham,contact@sterling36.com,2/10 Net 30,Low,Active,2020-01-10,0.8086,1.1493,0.0271,SYNTHETIC_BUSINESS_SIMULATION
+VND-0037,Sterling Products Co 37,CAT-003,USA,Chicago,contact@sterling37.com,Net 45,Low,Active,2020-11-04,0.7825,1.063,0.0374,SYNTHETIC_BUSINESS_SIMULATION
+VND-0038,Sterling Systems Inc,CAT-007,UK,Birmingham,contact@sterling38.com,2/10 Net 30,Low,Active,2023-12-05,0.7979,1.0658,0.0485,SYNTHETIC_BUSINESS_SIMULATION
+VND-0039,Zenith Fabricators,CAT-007,USA,Detroit,contact@zenith39.com,Net 45,Low,Active,2022-01-06,0.791,0.9347,0.0188,SYNTHETIC_BUSINESS_SIMULATION
+VND-0040,Crest Products Co 40,CAT-007,South Korea,Seoul,contact@crest40.com,2/10 Net 30,Medium,Active,2020-05-06,0.9141,1.001,0.0418,SYNTHETIC_BUSINESS_SIMULATION
+VND-0041,Atlas Supply Corp,CAT-007,Canada,Toronto,contact@atlas41.com,Net 30,Low,Active,2022-04-07,0.9426,0.9314,0.0039,SYNTHETIC_BUSINESS_SIMULATION
+VND-0042,Matrix Materials Group,CAT-007,Japan,Tokyo,contact@matrix42.com,Net 45,High,Active,2020-01-22,0.9282,0.9821,0.0307,SYNTHETIC_BUSINESS_SIMULATION
+VND-0043,Summit International,CAT-003,South Korea,Seoul,contact@summit43.com,Net 30,Low,Active,2021-06-21,0.9273,0.9942,0.0073,SYNTHETIC_BUSINESS_SIMULATION
+VND-0044,Integrity International,CAT-007,Singapore,Singapore,contact@integrity44.com,Net 60,Medium,Active,2019-02-09,0.7285,1.0171,0.0013,SYNTHETIC_BUSINESS_SIMULATION
+VND-0045,Nexus Engineering,CAT-001,Japan,Tokyo,contact@nexus45.com,Net 30,High,Active,2023-07-12,0.7916,1.0123,0.0209,SYNTHETIC_BUSINESS_SIMULATION
+VND-0046,Crest Systems Inc 46,CAT-004,South Korea,Seoul,contact@crest46.com,Net 30,Medium,Active,2022-10-07,0.7657,1.0866,0.0358,SYNTHETIC_BUSINESS_SIMULATION
+VND-0047,Alliance Industries,CAT-004,India,Mumbai,contact@alliance47.com,Net 30,Low,Active,2023-09-22,0.9315,1.0411,0.0277,SYNTHETIC_BUSINESS_SIMULATION
+VND-0048,Crest Global Trade,CAT-006,India,Mumbai,contact@crest48.com,Net 45,Medium,Active,2021-07-03,0.99,1.0763,0.0298,SYNTHETIC_BUSINESS_SIMULATION
+VND-0049,Pacific Products Co,CAT-005,South Korea,Seoul,contact@pacific49.com,Net 60,Medium,Active,2019-12-10,0.8027,0.9811,0.0127,SYNTHETIC_BUSINESS_SIMULATION
+VND-0050,Integrity Tech Solutions 50,CAT-004,Singapore,Singapore,contact@integrity50.com,Net 60,Low,Active,2022-12-10,0.8882,1.0549,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0051,Dynamic Logistics Ltd,CAT-004,Germany,Frankfurt,contact@dynamic51.com,2/10 Net 30,Low,Active,2020-10-19,0.8328,1.0871,0.021,SYNTHETIC_BUSINESS_SIMULATION
+VND-0052,Global International,CAT-007,UK,Birmingham,contact@global52.com,Net 30,Medium,Active,2021-05-07,0.7722,0.9416,0.0232,SYNTHETIC_BUSINESS_SIMULATION
+VND-0053,Omega Systems Inc,CAT-005,Netherlands,Rotterdam,contact@omega53.com,Net 60,Low,Active,2022-08-15,0.99,1.0507,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0054,Pacific Manufacturing,CAT-004,UK,Birmingham,contact@pacific54.com,Net 45,Medium,Active,2019-05-17,0.8986,0.9366,0.0183,SYNTHETIC_BUSINESS_SIMULATION
+VND-0055,Pacific Holdings,CAT-003,Netherlands,Rotterdam,contact@pacific55.com,Net 30,Low,Under Review,2020-11-10,0.9305,1.0693,0.002,SYNTHETIC_BUSINESS_SIMULATION
+VND-0056,Zenith Systems Inc,CAT-002,Germany,Frankfurt,contact@zenith56.com,Net 30,Low,Active,2019-04-16,0.8465,1.1412,0.0261,SYNTHETIC_BUSINESS_SIMULATION
+VND-0057,Pioneer Fabricators,CAT-004,USA,Houston,contact@pioneer57.com,2/10 Net 30,Low,Active,2023-04-23,0.99,1.0826,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0058,Atlas International,CAT-004,Mexico,Monterrey,contact@atlas58.com,Net 45,Low,Active,2020-11-23,0.8316,1.0355,0.0316,SYNTHETIC_BUSINESS_SIMULATION
+VND-0059,Apex Products Co,CAT-007,USA,Houston,contact@apex59.com,2/10 Net 30,Low,Active,2020-03-26,0.5559,0.918,0.0162,SYNTHETIC_BUSINESS_SIMULATION
+VND-0060,Atlas Components,CAT-001,Mexico,Monterrey,contact@atlas60.com,Net 45,Low,Active,2019-08-05,0.7552,0.9648,0.022,SYNTHETIC_BUSINESS_SIMULATION
+VND-0061,Matrix Holdings,CAT-005,UK,Birmingham,contact@matrix61.com,Net 60,Low,Active,2022-10-27,0.99,1.0008,0.0053,SYNTHETIC_BUSINESS_SIMULATION
+VND-0062,Crest Products Co 62,CAT-004,UK,Birmingham,contact@crest62.com,2/10 Net 30,Low,Active,2020-12-28,0.9262,1.0056,0.0142,SYNTHETIC_BUSINESS_SIMULATION
+VND-0063,Aegis Enterprises,CAT-007,Japan,Tokyo,contact@aegis63.com,Net 45,High,Active,2021-09-16,0.99,0.901,0.052,SYNTHETIC_BUSINESS_SIMULATION
+VND-0064,Synergy Manufacturing,CAT-004,Japan,Tokyo,contact@synergy64.com,Net 30,High,Active,2021-04-09,0.6848,1.0225,0.0107,SYNTHETIC_BUSINESS_SIMULATION
+VND-0065,Optima Materials Group,CAT-001,UK,Birmingham,contact@optima65.com,Net 45,Low,Active,2020-04-13,0.8211,1.068,0.0254,SYNTHETIC_BUSINESS_SIMULATION
+VND-0066,Atlas Logistics Ltd,CAT-002,India,Mumbai,contact@atlas66.com,Net 30,Low,Active,2022-07-11,0.8107,1.065,0.0294,SYNTHETIC_BUSINESS_SIMULATION
+VND-0067,Dynamic Enterprises,CAT-001,Canada,Toronto,contact@dynamic67.com,Net 45,Low,Active,2022-07-25,0.9547,1.0488,0.0197,SYNTHETIC_BUSINESS_SIMULATION
+VND-0068,Benchmark Global Trade,CAT-007,USA,Chicago,contact@benchmark68.com,2/10 Net 30,Low,Active,2022-01-12,0.8917,1.0438,0.017,SYNTHETIC_BUSINESS_SIMULATION
+VND-0069,Global Systems Inc,CAT-007,Canada,Toronto,contact@global69.com,2/10 Net 30,Medium,Active,2023-12-24,0.9625,1.0651,0.0396,SYNTHETIC_BUSINESS_SIMULATION
+VND-0070,Dynamic Systems Inc,CAT-002,Netherlands,Rotterdam,contact@dynamic70.com,2/10 Net 30,Low,Active,2020-05-14,0.8821,1.0259,0.018,SYNTHETIC_BUSINESS_SIMULATION
+VND-0071,Aegis Industries,CAT-003,Canada,Toronto,contact@aegis71.com,2/10 Net 30,High,Active,2020-08-05,0.7982,1.1674,0.0049,SYNTHETIC_BUSINESS_SIMULATION
+VND-0072,Pioneer Components,CAT-004,USA,Chicago,contact@pioneer72.com,Net 30,Low,Active,2019-11-14,0.7586,1.0499,0.0294,SYNTHETIC_BUSINESS_SIMULATION
+VND-0073,Pinnacle Fabricators,CAT-002,Mexico,Monterrey,contact@pinnacle73.com,Net 30,Low,Active,2021-07-11,0.8876,0.9458,0.0346,SYNTHETIC_BUSINESS_SIMULATION
+VND-0074,Summit Enterprises,CAT-003,South Korea,Seoul,contact@summit74.com,2/10 Net 30,Low,Active,2021-07-09,0.8653,1.033,0.0115,SYNTHETIC_BUSINESS_SIMULATION
+VND-0075,Precision Enterprises,CAT-006,USA,Chicago,contact@precision75.com,Net 30,Low,Active,2021-04-21,0.9045,0.9594,0.0129,SYNTHETIC_BUSINESS_SIMULATION
+VND-0076,Precision Systems Inc,CAT-001,Singapore,Singapore,contact@precision76.com,Net 30,Low,Under Review,2020-04-27,0.9032,0.8842,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0077,Apex Engineering,CAT-002,USA,Detroit,contact@apex77.com,Net 45,Medium,Active,2022-11-04,0.8082,0.9829,0.0247,SYNTHETIC_BUSINESS_SIMULATION
+VND-0078,Benchmark Manufacturing,CAT-006,Mexico,Monterrey,contact@benchmark78.com,Net 60,Low,Active,2021-03-20,0.99,0.9985,0.005,SYNTHETIC_BUSINESS_SIMULATION
+VND-0079,Pioneer Global Trade,CAT-001,India,Mumbai,contact@pioneer79.com,Net 45,Low,Active,2021-02-19,0.9123,0.9338,0.0278,SYNTHETIC_BUSINESS_SIMULATION
+VND-0080,Apex Products Co 80,CAT-005,Japan,Tokyo,contact@apex80.com,2/10 Net 30,High,Active,2022-12-07,0.99,1.0552,0.014,SYNTHETIC_BUSINESS_SIMULATION
+VND-0081,Precision Engineering,CAT-007,India,Mumbai,contact@precision81.com,Net 45,Low,Under Review,2019-12-25,0.9024,1.001,0.0215,SYNTHETIC_BUSINESS_SIMULATION
+VND-0082,Global Fabricators,CAT-005,Singapore,Singapore,contact@global82.com,Net 30,High,Active,2023-01-12,0.8027,1.1161,0.0344,SYNTHETIC_BUSINESS_SIMULATION
+VND-0083,Dynamic International,CAT-003,Singapore,Singapore,contact@dynamic83.com,Net 30,Low,Active,2023-11-11,0.9672,1.0147,0.0528,SYNTHETIC_BUSINESS_SIMULATION
+VND-0084,Apex Fabricators,CAT-007,Canada,Toronto,contact@apex84.com,2/10 Net 30,Low,Active,2019-07-12,0.7992,0.8301,0.0121,SYNTHETIC_BUSINESS_SIMULATION
+VND-0085,Synergy Products Co,CAT-006,Mexico,Monterrey,contact@synergy85.com,Net 45,Low,Active,2022-03-24,0.9142,1.1501,0.0343,SYNTHETIC_BUSINESS_SIMULATION
+VND-0086,Integrity Holdings,CAT-005,Japan,Tokyo,contact@integrity86.com,2/10 Net 30,Low,Active,2022-07-27,0.8223,0.8944,0.0475,SYNTHETIC_BUSINESS_SIMULATION
+VND-0087,Crest Engineering,CAT-003,Japan,Tokyo,contact@crest87.com,Net 45,High,Active,2019-05-15,0.99,0.9625,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0088,Zenith Systems Inc 88,CAT-005,Mexico,Monterrey,contact@zenith88.com,2/10 Net 30,High,Active,2021-01-16,0.99,0.9908,0.0386,SYNTHETIC_BUSINESS_SIMULATION
+VND-0089,Optima Logistics Ltd,CAT-002,Mexico,Monterrey,contact@optima89.com,Net 60,Low,Active,2021-06-09,0.8805,1.0038,0.0132,SYNTHETIC_BUSINESS_SIMULATION
+VND-0090,Pioneer Global Trade 90,CAT-005,Japan,Tokyo,contact@pioneer90.com,Net 30,Low,Active,2023-04-03,0.9423,1.0096,0.0277,SYNTHETIC_BUSINESS_SIMULATION
+VND-0091,Zenith Global Trade,CAT-004,Canada,Toronto,contact@zenith91.com,Net 45,Low,Active,2022-11-23,0.7266,1.1022,0.025,SYNTHETIC_BUSINESS_SIMULATION
+VND-0092,Aegis Enterprises 92,CAT-001,USA,Chicago,contact@aegis92.com,Net 60,Low,Active,2020-07-23,0.8052,1.0943,0.021,SYNTHETIC_BUSINESS_SIMULATION
+VND-0093,Zenith Tech Solutions,CAT-005,Singapore,Singapore,contact@zenith93.com,Net 60,Low,Active,2022-09-17,0.8551,1.0777,0.0297,SYNTHETIC_BUSINESS_SIMULATION
+VND-0094,Sterling International,CAT-005,India,Mumbai,contact@sterling94.com,Net 60,Medium,Active,2021-12-15,0.99,1.0847,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0095,Alliance Tech Solutions,CAT-002,Japan,Tokyo,contact@alliance95.com,Net 30,Low,Active,2020-06-04,0.8531,1.0574,0.0425,SYNTHETIC_BUSINESS_SIMULATION
+VND-0096,Crest Components,CAT-002,India,Mumbai,contact@crest96.com,Net 45,Low,Active,2020-12-16,0.8874,0.8637,0.0192,SYNTHETIC_BUSINESS_SIMULATION
+VND-0097,Alliance Global Trade,CAT-007,Netherlands,Rotterdam,contact@alliance97.com,Net 60,Low,Under Review,2019-04-10,0.6733,0.9929,0.0004,SYNTHETIC_BUSINESS_SIMULATION
+VND-0098,Zenith Materials Group,CAT-003,USA,Detroit,contact@zenith98.com,Net 30,Low,Active,2023-03-09,0.947,1.0293,0.0059,SYNTHETIC_BUSINESS_SIMULATION
+VND-0099,Vanguard Industries,CAT-003,UK,Birmingham,contact@vanguard99.com,Net 45,Low,Active,2022-02-28,0.8737,1.0764,0.0052,SYNTHETIC_BUSINESS_SIMULATION
+VND-0100,Apex Engineering 100,CAT-004,Japan,Tokyo,contact@apex100.com,2/10 Net 30,Low,Active,2022-06-06,0.9304,0.9576,0.0081,SYNTHETIC_BUSINESS_SIMULATION
+VND-0101,Vanguard Tech Solutions,CAT-001,Mexico,Monterrey,contact@vanguard101.com,Net 30,Low,Active,2022-08-03,0.8693,0.9172,0.0117,SYNTHETIC_BUSINESS_SIMULATION
+VND-0102,Benchmark Holdings,CAT-001,Singapore,Singapore,contact@benchmark102.com,Net 45,Low,Active,2020-10-10,0.7602,0.944,0.0232,SYNTHETIC_BUSINESS_SIMULATION
+VND-0103,Precision Manufacturing,CAT-005,USA,Houston,contact@precision103.com,2/10 Net 30,Medium,Active,2023-10-26,0.8688,0.9823,0.0292,SYNTHETIC_BUSINESS_SIMULATION
+VND-0104,Pioneer Manufacturing,CAT-004,UK,Birmingham,contact@pioneer104.com,2/10 Net 30,Low,Active,2022-05-28,0.9558,0.978,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0105,Benchmark International,CAT-005,Japan,Tokyo,contact@benchmark105.com,Net 30,Low,Active,2023-12-04,0.99,0.9801,0.0286,SYNTHETIC_BUSINESS_SIMULATION
+VND-0106,Summit Holdings,CAT-003,Germany,Frankfurt,contact@summit106.com,Net 30,Low,Active,2020-04-06,0.9111,0.9898,0.0057,SYNTHETIC_BUSINESS_SIMULATION
+VND-0107,Dynamic Supply Corp 107,CAT-001,USA,Detroit,contact@dynamic107.com,2/10 Net 30,Low,Active,2022-12-20,0.8044,0.8862,0.0103,SYNTHETIC_BUSINESS_SIMULATION
+VND-0108,Aegis Tech Solutions,CAT-002,USA,Chicago,contact@aegis108.com,Net 60,Low,Active,2021-12-28,0.7718,1.135,0.0332,SYNTHETIC_BUSINESS_SIMULATION
+VND-0109,Matrix Supply Corp,CAT-002,Singapore,Singapore,contact@matrix109.com,Net 60,Medium,Active,2023-11-26,0.8877,0.9311,0.0428,SYNTHETIC_BUSINESS_SIMULATION
+VND-0110,Summit International 110,CAT-005,USA,Houston,contact@summit110.com,Net 45,Low,Active,2020-05-27,0.9339,0.93,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0111,Pinnacle Supply Corp,CAT-002,USA,Chicago,contact@pinnacle111.com,Net 60,Low,Active,2023-12-27,0.7401,1.045,0.0102,SYNTHETIC_BUSINESS_SIMULATION
+VND-0112,Benchmark Products Co,CAT-004,Japan,Tokyo,contact@benchmark112.com,Net 30,Low,Active,2022-12-10,0.8313,1.0039,0.0075,SYNTHETIC_BUSINESS_SIMULATION
+VND-0113,Atlas International 113,CAT-005,Japan,Tokyo,contact@atlas113.com,2/10 Net 30,Low,Under Review,2022-02-20,0.8561,0.9274,0.0113,SYNTHETIC_BUSINESS_SIMULATION
+VND-0114,Vanguard Products Co,CAT-006,Canada,Toronto,contact@vanguard114.com,Net 60,Low,Active,2023-05-01,0.9555,1.0079,0.0313,SYNTHETIC_BUSINESS_SIMULATION
+VND-0115,Precision Manufacturing 115,CAT-007,Singapore,Singapore,contact@precision115.com,Net 30,Low,Active,2021-10-02,0.8137,1.0456,0.0086,SYNTHETIC_BUSINESS_SIMULATION
+VND-0116,Nexus Enterprises 116,CAT-006,UK,Birmingham,contact@nexus116.com,2/10 Net 30,Low,Active,2021-03-19,0.6995,1.0208,0.0064,SYNTHETIC_BUSINESS_SIMULATION
+VND-0117,Omega Holdings,CAT-001,Mexico,Monterrey,contact@omega117.com,2/10 Net 30,Low,Active,2021-07-11,0.8734,0.9031,0.0102,SYNTHETIC_BUSINESS_SIMULATION
+VND-0118,Optima Holdings,CAT-007,USA,Houston,contact@optima118.com,Net 45,Low,Active,2021-07-23,0.8847,1.0805,0.0113,SYNTHETIC_BUSINESS_SIMULATION
+VND-0119,Aegis Tech Solutions 119,CAT-004,Singapore,Singapore,contact@aegis119.com,Net 30,Low,Active,2022-02-11,0.933,1.1153,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0120,Alliance Materials Group,CAT-007,USA,Houston,contact@alliance120.com,2/10 Net 30,Low,Active,2023-01-22,0.8003,1.0297,0.0109,SYNTHETIC_BUSINESS_SIMULATION
+VND-0121,Dynamic Enterprises 121,CAT-001,Canada,Toronto,contact@dynamic121.com,Net 45,High,Active,2023-06-20,0.8887,0.9875,0.0375,SYNTHETIC_BUSINESS_SIMULATION
+VND-0122,Aegis Holdings,CAT-007,Mexico,Monterrey,contact@aegis122.com,Net 30,Low,Active,2020-05-18,0.9054,0.961,0.0135,SYNTHETIC_BUSINESS_SIMULATION
+VND-0123,Pinnacle Products Co,CAT-004,Japan,Tokyo,contact@pinnacle123.com,2/10 Net 30,Low,Active,2019-01-21,0.909,1.166,0.0331,SYNTHETIC_BUSINESS_SIMULATION
+VND-0124,Pioneer Systems Inc,CAT-006,Germany,Frankfurt,contact@pioneer124.com,Net 45,Low,Active,2021-09-01,0.8474,0.837,0.0049,SYNTHETIC_BUSINESS_SIMULATION
+VND-0125,Dynamic International 125,CAT-002,USA,Houston,contact@dynamic125.com,Net 30,Low,Active,2022-02-21,0.8818,1.1341,0.0249,SYNTHETIC_BUSINESS_SIMULATION
+VND-0126,Pinnacle Enterprises,CAT-003,India,Mumbai,contact@pinnacle126.com,Net 60,Low,Active,2022-08-16,0.8581,1.0188,0.0316,SYNTHETIC_BUSINESS_SIMULATION
+VND-0127,Zenith Enterprises,CAT-002,UK,Birmingham,contact@zenith127.com,2/10 Net 30,Low,Active,2020-10-17,0.7321,1.0915,0.0251,SYNTHETIC_BUSINESS_SIMULATION
+VND-0128,Crest Products Co 128,CAT-007,USA,Detroit,contact@crest128.com,Net 30,Low,Active,2021-07-11,0.8385,1.0145,0.0237,SYNTHETIC_BUSINESS_SIMULATION
+VND-0129,Integrity Tech Solutions 129,CAT-003,USA,Chicago,contact@integrity129.com,Net 60,Low,Active,2023-10-22,0.963,0.9315,0.0211,SYNTHETIC_BUSINESS_SIMULATION
+VND-0130,Aegis Fabricators,CAT-004,USA,Detroit,contact@aegis130.com,2/10 Net 30,Medium,Active,2021-06-18,0.8322,1.083,0.0123,SYNTHETIC_BUSINESS_SIMULATION
+VND-0131,Dynamic International 131,CAT-003,Mexico,Monterrey,contact@dynamic131.com,Net 45,Low,Active,2020-10-13,0.853,0.9217,0.0133,SYNTHETIC_BUSINESS_SIMULATION
+VND-0132,Zenith Fabricators 132,CAT-001,Canada,Toronto,contact@zenith132.com,Net 60,Low,Active,2022-12-26,0.9177,1.0696,0.0403,SYNTHETIC_BUSINESS_SIMULATION
+VND-0133,Quantum International,CAT-007,Singapore,Singapore,contact@quantum133.com,Net 45,Low,Active,2022-01-05,0.8026,0.9004,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0134,Integrity Engineering,CAT-007,South Korea,Seoul,contact@integrity134.com,Net 30,Low,Active,2022-02-17,0.99,1.0224,0.0031,SYNTHETIC_BUSINESS_SIMULATION
+VND-0135,Matrix Industries,CAT-002,India,Mumbai,contact@matrix135.com,2/10 Net 30,Low,Active,2020-02-16,0.8909,1.0581,0.0272,SYNTHETIC_BUSINESS_SIMULATION
+VND-0136,Alliance Materials Group 136,CAT-006,Netherlands,Rotterdam,contact@alliance136.com,2/10 Net 30,Medium,Active,2019-06-28,0.9024,1.1506,0.0402,SYNTHETIC_BUSINESS_SIMULATION
+VND-0137,Pacific Fabricators,CAT-004,UK,Birmingham,contact@pacific137.com,Net 60,Low,Active,2022-09-02,0.781,0.9899,0.0208,SYNTHETIC_BUSINESS_SIMULATION
+VND-0138,Pioneer Supply Corp,CAT-006,Germany,Frankfurt,contact@pioneer138.com,Net 60,Low,Active,2020-12-03,0.9894,0.9874,0.0136,SYNTHETIC_BUSINESS_SIMULATION
+VND-0139,Omega Supply Corp,CAT-006,Singapore,Singapore,contact@omega139.com,Net 30,Medium,Active,2022-03-23,0.7788,0.8676,0.0323,SYNTHETIC_BUSINESS_SIMULATION
+VND-0140,Global Products Co,CAT-001,USA,Chicago,contact@global140.com,Net 60,Low,Active,2019-05-12,0.8873,0.9731,0.045,SYNTHETIC_BUSINESS_SIMULATION
+VND-0141,Sterling International 141,CAT-002,USA,Detroit,contact@sterling141.com,2/10 Net 30,Low,Active,2023-11-26,0.8554,0.9782,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0142,Nexus Logistics Ltd,CAT-001,USA,Detroit,contact@nexus142.com,2/10 Net 30,High,Active,2023-11-08,0.8746,1.1479,0.0369,SYNTHETIC_BUSINESS_SIMULATION
+VND-0143,Aegis Products Co,CAT-002,Netherlands,Rotterdam,contact@aegis143.com,Net 45,Low,Active,2022-11-09,0.8531,0.9115,0.0586,SYNTHETIC_BUSINESS_SIMULATION
+VND-0144,Matrix Tech Solutions,CAT-001,Singapore,Singapore,contact@matrix144.com,2/10 Net 30,Low,Active,2021-11-18,0.8859,1.0158,0.0178,SYNTHETIC_BUSINESS_SIMULATION
+VND-0145,Nexus Supply Corp 145,CAT-003,Mexico,Monterrey,contact@nexus145.com,Net 60,Low,Active,2022-12-09,0.8767,0.9565,0.0093,SYNTHETIC_BUSINESS_SIMULATION
+VND-0146,Matrix Fabricators 146,CAT-002,Japan,Tokyo,contact@matrix146.com,2/10 Net 30,Medium,Active,2022-02-08,0.8906,0.8,0.0364,SYNTHETIC_BUSINESS_SIMULATION
+VND-0147,Quantum Engineering,CAT-005,South Korea,Seoul,contact@quantum147.com,Net 60,Low,Active,2021-01-27,0.8457,0.9703,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0148,Pacific International,CAT-001,Japan,Tokyo,contact@pacific148.com,Net 30,Low,Active,2023-12-16,0.8022,1.0749,0.0391,SYNTHETIC_BUSINESS_SIMULATION
+VND-0149,Global Systems Inc 149,CAT-005,Germany,Frankfurt,contact@global149.com,Net 60,Low,Active,2020-11-07,0.9522,0.9097,0.0121,SYNTHETIC_BUSINESS_SIMULATION
+VND-0150,Pioneer Tech Solutions,CAT-007,Singapore,Singapore,contact@pioneer150.com,Net 45,Low,Active,2019-11-21,0.9289,0.9808,0.0144,SYNTHETIC_BUSINESS_SIMULATION
+VND-0151,Vanguard Tech Solutions 151,CAT-001,Mexico,Monterrey,contact@vanguard151.com,Net 60,Medium,Active,2020-02-10,0.8439,1.0927,0.0038,SYNTHETIC_BUSINESS_SIMULATION
+VND-0152,Optima Global Trade,CAT-002,Canada,Toronto,contact@optima152.com,Net 45,Low,Active,2020-09-12,0.9416,1.0261,0.0012,SYNTHETIC_BUSINESS_SIMULATION
+VND-0153,Integrity Components,CAT-007,Japan,Tokyo,contact@integrity153.com,Net 45,Low,Active,2021-08-26,0.8277,1.0839,0.0094,SYNTHETIC_BUSINESS_SIMULATION
+VND-0154,Global Global Trade,CAT-007,South Korea,Seoul,contact@global154.com,Net 30,Low,Active,2022-02-05,0.7392,0.8976,0.0463,SYNTHETIC_BUSINESS_SIMULATION
+VND-0155,Zenith Fabricators 155,CAT-006,Singapore,Singapore,contact@zenith155.com,2/10 Net 30,Low,Active,2023-06-03,0.9011,0.9923,0.0118,SYNTHETIC_BUSINESS_SIMULATION
+VND-0156,Quantum Industries,CAT-005,Japan,Tokyo,contact@quantum156.com,Net 30,Medium,Active,2022-06-22,0.9199,1.0091,0.0223,SYNTHETIC_BUSINESS_SIMULATION
+VND-0157,Crest Holdings,CAT-005,Japan,Tokyo,contact@crest157.com,2/10 Net 30,Low,Active,2021-02-22,0.9108,0.8632,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0158,Zenith Enterprises 158,CAT-005,USA,Chicago,contact@zenith158.com,Net 60,Low,Active,2023-04-21,0.9543,1.0015,0.0252,SYNTHETIC_BUSINESS_SIMULATION
+VND-0159,Precision Holdings,CAT-006,Mexico,Monterrey,contact@precision159.com,Net 60,Low,Active,2022-02-05,0.8996,0.9217,0.0261,SYNTHETIC_BUSINESS_SIMULATION
+VND-0160,Vanguard Industries 160,CAT-004,Japan,Tokyo,contact@vanguard160.com,Net 30,Low,Active,2019-04-18,0.7097,1.0205,0.0347,SYNTHETIC_BUSINESS_SIMULATION
+VND-0161,Pinnacle International 161,CAT-003,Mexico,Monterrey,contact@pinnacle161.com,2/10 Net 30,Low,Active,2023-12-24,0.6959,0.8976,0.0106,SYNTHETIC_BUSINESS_SIMULATION
+VND-0162,Pinnacle Products Co 162,CAT-006,Canada,Toronto,contact@pinnacle162.com,Net 30,Low,Active,2022-10-14,0.8826,1.0149,0.0087,SYNTHETIC_BUSINESS_SIMULATION
+VND-0163,Alliance Industries 163,CAT-003,India,Mumbai,contact@alliance163.com,Net 45,Low,Active,2022-08-08,0.7877,0.8919,0.0054,SYNTHETIC_BUSINESS_SIMULATION
+VND-0164,Sterling Supply Corp,CAT-003,Singapore,Singapore,contact@sterling164.com,Net 60,Low,Active,2019-07-09,0.9854,1.0395,0.0228,SYNTHETIC_BUSINESS_SIMULATION
+VND-0165,Summit Supply Corp,CAT-001,Mexico,Monterrey,contact@summit165.com,Net 45,Medium,Active,2023-01-02,0.8224,1.0098,0.0584,SYNTHETIC_BUSINESS_SIMULATION
+VND-0166,Optima Manufacturing,CAT-007,USA,Detroit,contact@optima166.com,Net 45,Low,Active,2019-09-07,0.8704,0.9972,0.0466,SYNTHETIC_BUSINESS_SIMULATION
+VND-0167,Benchmark Manufacturing 167,CAT-003,Germany,Frankfurt,contact@benchmark167.com,Net 45,Low,Active,2023-01-09,0.9508,0.955,0.0295,SYNTHETIC_BUSINESS_SIMULATION
+VND-0168,Pinnacle Logistics Ltd,CAT-003,UK,Birmingham,contact@pinnacle168.com,Net 45,Low,Active,2019-11-28,0.9773,0.9418,0.0163,SYNTHETIC_BUSINESS_SIMULATION
+VND-0169,Apex Logistics Ltd,CAT-003,USA,Chicago,contact@apex169.com,Net 45,High,Active,2023-06-01,0.8726,1.0497,0.0227,SYNTHETIC_BUSINESS_SIMULATION
+VND-0170,Nexus Tech Solutions,CAT-002,USA,Chicago,contact@nexus170.com,2/10 Net 30,Medium,Active,2023-02-24,0.7465,1.0448,0.0362,SYNTHETIC_BUSINESS_SIMULATION
+VND-0171,Precision Enterprises 171,CAT-007,Mexico,Monterrey,contact@precision171.com,Net 60,Low,Active,2023-10-04,0.873,0.8671,0.0264,SYNTHETIC_BUSINESS_SIMULATION
+VND-0172,Matrix Components,CAT-005,Germany,Frankfurt,contact@matrix172.com,Net 30,Low,Active,2023-05-15,0.9008,0.9135,0.0358,SYNTHETIC_BUSINESS_SIMULATION
+VND-0173,Synergy Industries,CAT-004,USA,Chicago,contact@synergy173.com,2/10 Net 30,High,Under Review,2022-11-04,0.876,1.0545,0.0204,SYNTHETIC_BUSINESS_SIMULATION
+VND-0174,Aegis Global Trade,CAT-001,Mexico,Monterrey,contact@aegis174.com,Net 30,Low,Active,2021-10-05,0.883,1.0077,0.0131,SYNTHETIC_BUSINESS_SIMULATION
+VND-0175,Precision Logistics Ltd,CAT-005,Japan,Tokyo,contact@precision175.com,Net 60,Low,Active,2022-10-17,0.9022,0.9617,0.0388,SYNTHETIC_BUSINESS_SIMULATION
+VND-0176,Global Enterprises,CAT-005,UK,Birmingham,contact@global176.com,2/10 Net 30,Low,Active,2019-12-04,0.7905,1.1158,0.0229,SYNTHETIC_BUSINESS_SIMULATION
+VND-0177,Synergy Holdings,CAT-006,UK,Birmingham,contact@synergy177.com,Net 45,Low,Active,2022-08-08,0.9067,1.0712,0.0212,SYNTHETIC_BUSINESS_SIMULATION
+VND-0178,Omega Materials Group,CAT-004,Mexico,Monterrey,contact@omega178.com,2/10 Net 30,High,Active,2019-06-14,0.9865,0.9586,0.0411,SYNTHETIC_BUSINESS_SIMULATION
+VND-0179,Optima Holdings 179,CAT-003,Japan,Tokyo,contact@optima179.com,Net 45,Low,Active,2022-02-03,0.8354,1.1163,0.0437,SYNTHETIC_BUSINESS_SIMULATION
+VND-0180,Precision Supply Corp,CAT-001,Canada,Toronto,contact@precision180.com,Net 60,Low,Active,2020-09-02,0.8277,0.8924,0.0062,SYNTHETIC_BUSINESS_SIMULATION
+VND-0181,Benchmark Components 181,CAT-003,UK,Birmingham,contact@benchmark181.com,Net 30,Low,Active,2022-06-28,0.8765,1.0187,0.0433,SYNTHETIC_BUSINESS_SIMULATION
+VND-0182,Pacific Systems Inc,CAT-007,Canada,Toronto,contact@pacific182.com,Net 30,Low,Active,2021-10-10,0.7802,1.0787,0.0168,SYNTHETIC_BUSINESS_SIMULATION
+VND-0183,Sterling Supply Corp 183,CAT-005,Netherlands,Rotterdam,contact@sterling183.com,Net 45,High,Active,2020-11-16,0.7677,1.0306,0.0225,SYNTHETIC_BUSINESS_SIMULATION
+VND-0184,Zenith Fabricators 184,CAT-003,USA,Houston,contact@zenith184.com,Net 60,Low,Active,2019-05-19,0.9292,0.949,0.012,SYNTHETIC_BUSINESS_SIMULATION
+VND-0185,Zenith Systems Inc 185,CAT-007,Canada,Toronto,contact@zenith185.com,Net 30,Low,Active,2023-11-27,0.8163,1.0951,0.0413,SYNTHETIC_BUSINESS_SIMULATION
+VND-0186,Atlas Tech Solutions,CAT-002,USA,Chicago,contact@atlas186.com,Net 60,Low,Active,2021-06-12,0.8229,0.9558,0.0295,SYNTHETIC_BUSINESS_SIMULATION
+VND-0187,Apex Logistics Ltd 187,CAT-005,USA,Detroit,contact@apex187.com,2/10 Net 30,Low,Active,2019-03-24,0.99,1.1437,0.0108,SYNTHETIC_BUSINESS_SIMULATION
+VND-0188,Synergy Industries 188,CAT-006,USA,Houston,contact@synergy188.com,Net 45,Medium,Active,2022-07-15,0.8412,1.0229,0.025,SYNTHETIC_BUSINESS_SIMULATION
+VND-0189,Optima Logistics Ltd 189,CAT-003,South Korea,Seoul,contact@optima189.com,Net 60,Low,Active,2023-10-03,0.8623,0.9361,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0190,Vanguard Logistics Ltd,CAT-007,USA,Detroit,contact@vanguard190.com,Net 30,Medium,Active,2019-05-15,0.8069,0.9586,0.0234,SYNTHETIC_BUSINESS_SIMULATION
+VND-0191,Pacific International 191,CAT-005,Mexico,Monterrey,contact@pacific191.com,2/10 Net 30,Medium,Active,2022-05-07,0.99,0.9575,0.0127,SYNTHETIC_BUSINESS_SIMULATION
+VND-0192,Integrity Supply Corp,CAT-004,South Korea,Seoul,contact@integrity192.com,Net 30,Low,Active,2021-11-22,0.9844,1.0467,0.0146,SYNTHETIC_BUSINESS_SIMULATION
+VND-0193,Benchmark Enterprises 193,CAT-006,UK,Birmingham,contact@benchmark193.com,Net 60,Medium,Active,2019-04-13,0.962,1.0406,0.036,SYNTHETIC_BUSINESS_SIMULATION
+VND-0194,Pioneer Industries,CAT-002,USA,Chicago,contact@pioneer194.com,Net 60,Low,Active,2020-03-25,0.99,0.9866,0.0222,SYNTHETIC_BUSINESS_SIMULATION
+VND-0195,Alliance Tech Solutions 195,CAT-001,South Korea,Seoul,contact@alliance195.com,Net 30,Low,Active,2022-12-14,0.9169,0.9685,0.0204,SYNTHETIC_BUSINESS_SIMULATION
+VND-0196,Nexus Logistics Ltd 196,CAT-005,Canada,Toronto,contact@nexus196.com,Net 45,Low,Active,2023-09-27,0.99,1.0153,0.0207,SYNTHETIC_BUSINESS_SIMULATION
+VND-0197,Pacific Systems Inc 197,CAT-001,South Korea,Seoul,contact@pacific197.com,2/10 Net 30,Low,Active,2019-07-01,0.9445,1.1731,0.0154,SYNTHETIC_BUSINESS_SIMULATION
+VND-0198,Matrix Products Co,CAT-007,USA,Houston,contact@matrix198.com,Net 60,Medium,Active,2023-07-19,0.9019,0.9924,0.0242,SYNTHETIC_BUSINESS_SIMULATION
+VND-0199,Quantum Global Trade,CAT-004,Singapore,Singapore,contact@quantum199.com,Net 60,Low,Active,2019-07-01,0.8354,1.0155,0.0361,SYNTHETIC_BUSINESS_SIMULATION
+VND-0200,Optima Logistics Ltd 200,CAT-004,Netherlands,Rotterdam,contact@optima200.com,Net 60,Low,Active,2019-07-28,0.7773,1.0956,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0201,Titan Manufacturing,CAT-005,Canada,Toronto,contact@titan201.com,2/10 Net 30,Low,Active,2023-02-13,0.8241,1.0302,0.0435,SYNTHETIC_BUSINESS_SIMULATION
+VND-0202,Global Global Trade 202,CAT-002,South Korea,Seoul,contact@global202.com,Net 60,Low,Active,2020-02-17,0.8734,0.8842,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0203,Synergy Supply Corp,CAT-005,UK,Birmingham,contact@synergy203.com,Net 45,Low,Active,2021-06-24,0.7779,1.0567,0.0237,SYNTHETIC_BUSINESS_SIMULATION
+VND-0204,Synergy Fabricators,CAT-002,USA,Detroit,contact@synergy204.com,Net 30,Low,Active,2020-05-07,0.8236,1.052,0.0185,SYNTHETIC_BUSINESS_SIMULATION
+VND-0205,Nexus Engineering 205,CAT-007,USA,Detroit,contact@nexus205.com,Net 30,Low,Active,2020-11-16,0.7274,0.9446,0.0193,SYNTHETIC_BUSINESS_SIMULATION
+VND-0206,Matrix Systems Inc,CAT-007,Netherlands,Rotterdam,contact@matrix206.com,2/10 Net 30,Medium,Active,2023-11-21,0.9043,0.8999,0.0417,SYNTHETIC_BUSINESS_SIMULATION
+VND-0207,Pioneer Materials Group,CAT-003,Singapore,Singapore,contact@pioneer207.com,Net 45,Medium,Active,2022-02-16,0.9143,1.0365,0.0285,SYNTHETIC_BUSINESS_SIMULATION
+VND-0208,Matrix Holdings 208,CAT-007,Japan,Tokyo,contact@matrix208.com,Net 60,Medium,Active,2023-01-12,0.9248,1.0157,0.0306,SYNTHETIC_BUSINESS_SIMULATION
+VND-0209,Integrity Supply Corp 209,CAT-004,Japan,Tokyo,contact@integrity209.com,2/10 Net 30,Medium,Active,2019-01-12,0.8124,1.1441,0.0194,SYNTHETIC_BUSINESS_SIMULATION
+VND-0210,Global Supply Corp,CAT-007,Singapore,Singapore,contact@global210.com,Net 30,Low,Active,2023-10-17,0.7369,1.0673,0.0102,SYNTHETIC_BUSINESS_SIMULATION
+VND-0211,Quantum Enterprises,CAT-005,Netherlands,Rotterdam,contact@quantum211.com,Net 30,Low,Active,2022-10-21,0.8348,0.8061,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0212,Summit Materials Group,CAT-004,Netherlands,Rotterdam,contact@summit212.com,Net 45,Low,Active,2019-08-04,0.956,0.9226,0.0193,SYNTHETIC_BUSINESS_SIMULATION
+VND-0213,Optima Global Trade 213,CAT-005,USA,Houston,contact@optima213.com,Net 45,Low,Under Review,2019-04-23,0.8796,0.9073,0.0426,SYNTHETIC_BUSINESS_SIMULATION
+VND-0214,Matrix Enterprises,CAT-005,UK,Birmingham,contact@matrix214.com,Net 45,Low,Active,2021-06-10,0.9677,1.0167,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0215,Quantum International 215,CAT-006,South Korea,Seoul,contact@quantum215.com,Net 30,Low,Active,2021-02-11,0.7798,0.9775,0.047,SYNTHETIC_BUSINESS_SIMULATION
+VND-0216,Titan Components,CAT-004,Singapore,Singapore,contact@titan216.com,Net 60,Medium,Active,2021-12-28,0.9441,1.1119,0.0339,SYNTHETIC_BUSINESS_SIMULATION
+VND-0217,Pacific Products Co 217,CAT-007,Netherlands,Rotterdam,contact@pacific217.com,Net 45,Low,Active,2021-02-19,0.886,0.9482,0.0305,SYNTHETIC_BUSINESS_SIMULATION
+VND-0218,Pacific Logistics Ltd,CAT-003,South Korea,Seoul,contact@pacific218.com,2/10 Net 30,Medium,Active,2020-10-23,0.9193,1.084,0.012,SYNTHETIC_BUSINESS_SIMULATION
+VND-0219,Precision Tech Solutions,CAT-004,UK,Birmingham,contact@precision219.com,Net 60,Low,Active,2020-11-23,0.99,1.0158,0.0511,SYNTHETIC_BUSINESS_SIMULATION
+VND-0220,Crest Holdings 220,CAT-001,UK,Birmingham,contact@crest220.com,2/10 Net 30,Low,Active,2023-06-01,0.8111,0.9479,0.0127,SYNTHETIC_BUSINESS_SIMULATION
+VND-0221,Sterling Tech Solutions,CAT-002,USA,Detroit,contact@sterling221.com,Net 60,Medium,Active,2022-04-08,0.9323,0.9541,0.0196,SYNTHETIC_BUSINESS_SIMULATION
+VND-0222,Pinnacle Logistics Ltd 222,CAT-003,USA,Houston,contact@pinnacle222.com,Net 30,Low,Active,2023-09-27,0.99,1.003,0.0218,SYNTHETIC_BUSINESS_SIMULATION
+VND-0223,Crest Products Co 223,CAT-001,UK,Birmingham,contact@crest223.com,Net 60,Low,Active,2023-03-20,0.8543,0.8665,0.026,SYNTHETIC_BUSINESS_SIMULATION
+VND-0224,Quantum Logistics Ltd 224,CAT-002,USA,Detroit,contact@quantum224.com,Net 45,Medium,Active,2022-01-14,0.9447,0.9019,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0225,Sterling Holdings,CAT-002,India,Mumbai,contact@sterling225.com,2/10 Net 30,High,Active,2023-05-25,0.9024,1.0838,0.0453,SYNTHETIC_BUSINESS_SIMULATION
+VND-0226,Crest Systems Inc 226,CAT-002,Mexico,Monterrey,contact@crest226.com,Net 45,Low,Active,2021-08-27,0.8341,0.9862,0.0333,SYNTHETIC_BUSINESS_SIMULATION
+VND-0227,Summit Materials Group 227,CAT-005,Singapore,Singapore,contact@summit227.com,2/10 Net 30,Low,Active,2022-05-25,0.99,1.1104,0.0106,SYNTHETIC_BUSINESS_SIMULATION
+VND-0228,Quantum Components,CAT-004,UK,Birmingham,contact@quantum228.com,Net 45,Medium,Active,2020-10-05,0.9196,0.956,0.0099,SYNTHETIC_BUSINESS_SIMULATION
+VND-0229,Alliance Industries 229,CAT-004,Singapore,Singapore,contact@alliance229.com,Net 60,High,Active,2023-02-23,0.8774,1.0938,0.0282,SYNTHETIC_BUSINESS_SIMULATION
+VND-0230,Integrity Fabricators,CAT-003,USA,Houston,contact@integrity230.com,Net 30,Low,Active,2020-05-15,0.8429,1.0919,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0231,Integrity Logistics Ltd,CAT-001,Canada,Toronto,contact@integrity231.com,Net 45,Low,Active,2022-06-01,0.7505,1.0929,0.013,SYNTHETIC_BUSINESS_SIMULATION
+VND-0232,Omega Industries,CAT-005,Canada,Toronto,contact@omega232.com,Net 60,High,Active,2020-07-03,0.9147,1.0061,0.0008,SYNTHETIC_BUSINESS_SIMULATION
+VND-0233,Sterling Manufacturing,CAT-003,USA,Chicago,contact@sterling233.com,Net 30,Low,Active,2021-03-05,0.7243,0.9658,0.0425,SYNTHETIC_BUSINESS_SIMULATION
+VND-0234,Vanguard Tech Solutions 234,CAT-006,Mexico,Monterrey,contact@vanguard234.com,Net 45,Low,Active,2022-08-20,0.965,0.9743,0.0512,SYNTHETIC_BUSINESS_SIMULATION
+VND-0235,Apex Products Co 235,CAT-001,USA,Houston,contact@apex235.com,Net 60,Medium,Active,2020-03-18,0.983,1.0191,0.0161,SYNTHETIC_BUSINESS_SIMULATION
+VND-0236,Crest Engineering 236,CAT-004,UK,Birmingham,contact@crest236.com,Net 30,Low,Active,2021-04-10,0.8604,1.0582,0.0208,SYNTHETIC_BUSINESS_SIMULATION
+VND-0237,Titan Industries,CAT-004,Germany,Frankfurt,contact@titan237.com,2/10 Net 30,Low,Active,2019-02-27,0.9533,0.9935,0.0212,SYNTHETIC_BUSINESS_SIMULATION
+VND-0238,Aegis Engineering,CAT-001,UK,Birmingham,contact@aegis238.com,Net 45,Low,Active,2020-05-14,0.6802,1.0733,0.0252,SYNTHETIC_BUSINESS_SIMULATION
+VND-0239,Apex Engineering 239,CAT-002,South Korea,Seoul,contact@apex239.com,2/10 Net 30,Low,Active,2020-11-22,0.99,0.9888,0.0366,SYNTHETIC_BUSINESS_SIMULATION
+VND-0240,Precision Components,CAT-001,South Korea,Seoul,contact@precision240.com,Net 30,Low,Active,2022-08-02,0.776,0.9501,0.0487,SYNTHETIC_BUSINESS_SIMULATION
+VND-0241,Synergy International,CAT-003,South Korea,Seoul,contact@synergy241.com,Net 30,Medium,Active,2021-02-12,0.967,1.0397,0.0223,SYNTHETIC_BUSINESS_SIMULATION
+VND-0242,Zenith Global Trade 242,CAT-006,Singapore,Singapore,contact@zenith242.com,Net 30,Low,Active,2023-12-25,0.9165,1.0161,0.0358,SYNTHETIC_BUSINESS_SIMULATION
+VND-0243,Optima Logistics Ltd 243,CAT-003,USA,Chicago,contact@optima243.com,Net 60,Low,Active,2020-11-15,0.99,1.095,0.0296,SYNTHETIC_BUSINESS_SIMULATION
+VND-0244,Atlas Enterprises,CAT-002,Singapore,Singapore,contact@atlas244.com,Net 45,Low,Active,2019-12-25,0.7657,1.0242,0.0087,SYNTHETIC_BUSINESS_SIMULATION
+VND-0245,Matrix Industries 245,CAT-002,Japan,Tokyo,contact@matrix245.com,Net 30,High,Active,2020-01-11,0.8736,1.0263,0.0248,SYNTHETIC_BUSINESS_SIMULATION
+VND-0246,Global Components,CAT-007,Canada,Toronto,contact@global246.com,2/10 Net 30,Low,Active,2021-01-25,0.9222,0.9805,0.0345,SYNTHETIC_BUSINESS_SIMULATION
+VND-0247,Synergy Manufacturing 247,CAT-003,Japan,Tokyo,contact@synergy247.com,Net 30,Low,Active,2021-05-04,0.9397,1.0561,0.0155,SYNTHETIC_BUSINESS_SIMULATION
+VND-0248,Sterling International 248,CAT-006,Canada,Toronto,contact@sterling248.com,2/10 Net 30,Medium,Active,2022-06-06,0.99,0.9862,0.0202,SYNTHETIC_BUSINESS_SIMULATION
+VND-0249,Aegis Global Trade 249,CAT-003,Mexico,Monterrey,contact@aegis249.com,Net 60,Low,Active,2019-12-14,0.99,0.9322,0.0051,SYNTHETIC_BUSINESS_SIMULATION
+VND-0250,Precision International,CAT-007,Netherlands,Rotterdam,contact@precision250.com,Net 45,Low,Active,2023-05-11,0.6647,1.1314,0.0351,SYNTHETIC_BUSINESS_SIMULATION
+VND-0251,Titan Supply Corp,CAT-006,South Korea,Seoul,contact@titan251.com,Net 60,Low,Active,2021-08-20,0.9782,0.974,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0252,Atlas International 252,CAT-006,USA,Detroit,contact@atlas252.com,2/10 Net 30,Low,Active,2021-08-02,0.99,0.8888,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0253,Crest Fabricators,CAT-005,South Korea,Seoul,contact@crest253.com,2/10 Net 30,Low,Active,2021-11-26,0.99,1.0451,0.0289,SYNTHETIC_BUSINESS_SIMULATION
+VND-0254,Vanguard Supply Corp 254,CAT-006,Singapore,Singapore,contact@vanguard254.com,2/10 Net 30,High,Active,2021-09-26,0.9653,1.0607,0.0242,SYNTHETIC_BUSINESS_SIMULATION
+VND-0255,Crest Holdings 255,CAT-001,USA,Detroit,contact@crest255.com,Net 45,Low,Active,2023-11-26,0.8046,0.9775,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0256,Matrix Industries 256,CAT-001,USA,Detroit,contact@matrix256.com,Net 45,Low,Active,2021-06-13,0.8702,1.0144,0.0409,SYNTHETIC_BUSINESS_SIMULATION
+VND-0257,Benchmark Industries,CAT-002,Netherlands,Rotterdam,contact@benchmark257.com,2/10 Net 30,Low,Active,2021-06-15,0.781,1.0753,0.0053,SYNTHETIC_BUSINESS_SIMULATION
+VND-0258,Precision Engineering 258,CAT-005,USA,Detroit,contact@precision258.com,Net 60,Low,Active,2022-06-21,0.8575,1.0084,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0259,Alliance Manufacturing,CAT-001,USA,Houston,contact@alliance259.com,Net 45,Medium,Active,2022-09-13,0.7207,1.0352,0.0197,SYNTHETIC_BUSINESS_SIMULATION
+VND-0260,Dynamic Supply Corp 260,CAT-007,Japan,Tokyo,contact@dynamic260.com,Net 60,Medium,Active,2022-04-20,0.9352,1.01,0.0136,SYNTHETIC_BUSINESS_SIMULATION
+VND-0261,Global Global Trade 261,CAT-002,Mexico,Monterrey,contact@global261.com,Net 30,High,Active,2020-02-15,0.8849,1.0032,0.0095,SYNTHETIC_BUSINESS_SIMULATION
+VND-0262,Nexus Products Co,CAT-004,India,Mumbai,contact@nexus262.com,Net 30,Low,Active,2021-11-12,0.8137,0.9005,0.0096,SYNTHETIC_BUSINESS_SIMULATION
+VND-0263,Atlas Supply Corp 263,CAT-005,UK,Birmingham,contact@atlas263.com,Net 60,Medium,Active,2021-03-23,0.8505,1.0998,0.0099,SYNTHETIC_BUSINESS_SIMULATION
+VND-0264,Atlas Products Co,CAT-006,India,Mumbai,contact@atlas264.com,Net 45,Low,Active,2021-09-08,0.9079,0.905,0.0246,SYNTHETIC_BUSINESS_SIMULATION
+VND-0265,Titan Manufacturing 265,CAT-002,USA,Detroit,contact@titan265.com,2/10 Net 30,Medium,Active,2019-06-18,0.8615,0.9896,0.0207,SYNTHETIC_BUSINESS_SIMULATION
+VND-0266,Benchmark Materials Group,CAT-007,Mexico,Monterrey,contact@benchmark266.com,Net 45,Low,Active,2023-02-03,0.8653,0.9554,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0267,Global International 267,CAT-006,India,Mumbai,contact@global267.com,2/10 Net 30,Low,Active,2023-07-25,0.7996,1.1311,0.0452,SYNTHETIC_BUSINESS_SIMULATION
+VND-0268,Omega Fabricators,CAT-001,Netherlands,Rotterdam,contact@omega268.com,Net 45,Low,Suspended,2021-11-03,0.8246,1.0455,0.0444,SYNTHETIC_BUSINESS_SIMULATION
+VND-0269,Matrix Enterprises 269,CAT-005,Singapore,Singapore,contact@matrix269.com,Net 60,Low,Active,2020-09-21,0.8218,0.9188,0.0103,SYNTHETIC_BUSINESS_SIMULATION
+VND-0270,Benchmark Logistics Ltd,CAT-004,USA,Detroit,contact@benchmark270.com,Net 30,Low,Active,2019-09-05,0.7576,1.0187,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0271,Global Logistics Ltd,CAT-003,USA,Detroit,contact@global271.com,Net 45,Medium,Active,2021-09-10,0.6806,1.0299,0.0384,SYNTHETIC_BUSINESS_SIMULATION
+VND-0272,Precision Tech Solutions 272,CAT-006,Germany,Frankfurt,contact@precision272.com,Net 60,High,Active,2020-11-10,0.759,1.1338,0.0263,SYNTHETIC_BUSINESS_SIMULATION
+VND-0273,Pioneer Components 273,CAT-005,USA,Houston,contact@pioneer273.com,Net 45,Low,Active,2023-10-05,0.9358,1.0061,0.0281,SYNTHETIC_BUSINESS_SIMULATION
+VND-0274,Nexus Holdings,CAT-006,Netherlands,Rotterdam,contact@nexus274.com,Net 60,Low,Active,2023-01-27,0.7879,0.9911,0.0064,SYNTHETIC_BUSINESS_SIMULATION
+VND-0275,Apex Supply Corp,CAT-006,USA,Chicago,contact@apex275.com,Net 60,Medium,Active,2020-10-14,0.9891,1.0487,0.0036,SYNTHETIC_BUSINESS_SIMULATION
+VND-0276,Pioneer Holdings,CAT-004,USA,Chicago,contact@pioneer276.com,Net 60,High,Active,2021-08-08,0.8484,1.097,0.0221,SYNTHETIC_BUSINESS_SIMULATION
+VND-0277,Pacific International 277,CAT-004,Japan,Tokyo,contact@pacific277.com,Net 30,Low,Active,2019-03-15,0.8992,0.9753,0.022,SYNTHETIC_BUSINESS_SIMULATION
+VND-0278,Omega Enterprises 278,CAT-002,Mexico,Monterrey,contact@omega278.com,Net 60,Medium,Active,2023-03-11,0.8648,0.9371,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0279,Atlas Materials Group 279,CAT-007,India,Mumbai,contact@atlas279.com,Net 60,Low,Active,2022-03-25,0.6964,1.0406,0.0034,SYNTHETIC_BUSINESS_SIMULATION
+VND-0280,Sterling Components,CAT-001,UK,Birmingham,contact@sterling280.com,Net 60,Low,Active,2020-08-04,0.6647,0.9995,0.0326,SYNTHETIC_BUSINESS_SIMULATION
+VND-0281,Alliance Enterprises,CAT-002,Germany,Frankfurt,contact@alliance281.com,Net 30,High,Active,2019-05-13,0.8882,0.9921,0.0338,SYNTHETIC_BUSINESS_SIMULATION
+VND-0282,Pioneer International,CAT-007,Germany,Frankfurt,contact@pioneer282.com,Net 45,Medium,Active,2021-10-24,0.851,0.9466,0.0349,SYNTHETIC_BUSINESS_SIMULATION
+VND-0283,Optima Manufacturing 283,CAT-004,USA,Detroit,contact@optima283.com,2/10 Net 30,Low,Active,2022-05-16,0.9337,0.9281,0.0204,SYNTHETIC_BUSINESS_SIMULATION
+VND-0284,Apex Supply Corp 284,CAT-005,Canada,Toronto,contact@apex284.com,2/10 Net 30,Low,Active,2020-04-19,0.8791,0.998,0.0323,SYNTHETIC_BUSINESS_SIMULATION
+VND-0285,Sterling Industries,CAT-003,USA,Chicago,contact@sterling285.com,2/10 Net 30,Low,Active,2023-11-22,0.881,0.8951,0.004,SYNTHETIC_BUSINESS_SIMULATION
+VND-0286,Aegis Tech Solutions 286,CAT-001,UK,Birmingham,contact@aegis286.com,Net 30,Low,Active,2022-03-09,0.8495,1.0045,0.0279,SYNTHETIC_BUSINESS_SIMULATION
+VND-0287,Crest Materials Group,CAT-003,Canada,Toronto,contact@crest287.com,Net 30,High,Active,2022-01-19,0.8864,0.842,0.0059,SYNTHETIC_BUSINESS_SIMULATION
+VND-0288,Dynamic Manufacturing,CAT-005,South Korea,Seoul,contact@dynamic288.com,Net 60,Low,Active,2019-07-17,0.8656,1.1225,0.0383,SYNTHETIC_BUSINESS_SIMULATION
+VND-0289,Matrix Systems Inc 289,CAT-003,UK,Birmingham,contact@matrix289.com,Net 30,Low,Active,2020-02-13,0.8587,1.1193,0.0222,SYNTHETIC_BUSINESS_SIMULATION
+VND-0290,Sterling Systems Inc 290,CAT-005,South Korea,Seoul,contact@sterling290.com,Net 60,High,Active,2020-04-20,0.8463,0.9509,0.0155,SYNTHETIC_BUSINESS_SIMULATION
+VND-0291,Integrity International 291,CAT-001,UK,Birmingham,contact@integrity291.com,Net 30,Low,Active,2019-03-23,0.8961,1.0002,0.0266,SYNTHETIC_BUSINESS_SIMULATION
+VND-0292,Optima Systems Inc 292,CAT-005,Mexico,Monterrey,contact@optima292.com,2/10 Net 30,Low,Active,2020-10-17,0.99,0.8,0.034,SYNTHETIC_BUSINESS_SIMULATION
+VND-0293,Pinnacle Materials Group,CAT-003,Netherlands,Rotterdam,contact@pinnacle293.com,Net 45,Low,Active,2022-10-24,0.7433,0.982,0.0024,SYNTHETIC_BUSINESS_SIMULATION
+VND-0294,Global Engineering,CAT-005,South Korea,Seoul,contact@global294.com,2/10 Net 30,Medium,Active,2023-05-16,0.6998,0.9539,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0295,Apex Materials Group,CAT-006,South Korea,Seoul,contact@apex295.com,Net 30,Low,Active,2022-10-10,0.8254,1.0313,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0296,Crest Fabricators 296,CAT-006,India,Mumbai,contact@crest296.com,Net 30,Low,Active,2023-08-09,0.8983,0.9988,0.0287,SYNTHETIC_BUSINESS_SIMULATION
+VND-0297,Synergy Systems Inc,CAT-005,Netherlands,Rotterdam,contact@synergy297.com,Net 45,Low,Active,2019-10-16,0.99,0.9873,0.0196,SYNTHETIC_BUSINESS_SIMULATION
+VND-0298,Nexus Components 298,CAT-006,Singapore,Singapore,contact@nexus298.com,2/10 Net 30,Low,Active,2020-11-08,0.7867,0.9862,0.0457,SYNTHETIC_BUSINESS_SIMULATION
+VND-0299,Vanguard Engineering,CAT-001,India,Mumbai,contact@vanguard299.com,Net 45,Low,Active,2019-08-11,0.99,0.9833,0.01,SYNTHETIC_BUSINESS_SIMULATION
+VND-0300,Omega Logistics Ltd,CAT-006,Canada,Toronto,contact@omega300.com,Net 45,Low,Active,2022-09-25,0.984,1.0542,0.0127,SYNTHETIC_BUSINESS_SIMULATION
+VND-0301,Pioneer Products Co,CAT-007,Mexico,Monterrey,contact@pioneer301.com,Net 30,Low,Active,2020-09-07,0.99,0.9515,0.0311,SYNTHETIC_BUSINESS_SIMULATION
+VND-0302,Dynamic Materials Group,CAT-004,Singapore,Singapore,contact@dynamic302.com,2/10 Net 30,Low,Active,2021-03-15,0.9099,1.0026,0.0087,SYNTHETIC_BUSINESS_SIMULATION
+VND-0303,Dynamic Materials Group 303,CAT-003,UK,Birmingham,contact@dynamic303.com,Net 60,Low,Active,2023-08-07,0.99,1.0109,0.0145,SYNTHETIC_BUSINESS_SIMULATION
+VND-0304,Zenith Tech Solutions 304,CAT-003,UK,Birmingham,contact@zenith304.com,Net 45,Low,Active,2021-05-23,0.8985,0.8922,0.0054,SYNTHETIC_BUSINESS_SIMULATION
+VND-0305,Summit Global Trade,CAT-004,India,Mumbai,contact@summit305.com,Net 60,Low,Active,2022-06-18,0.7753,1.0429,0.0378,SYNTHETIC_BUSINESS_SIMULATION
+VND-0306,Crest Tech Solutions,CAT-001,Japan,Tokyo,contact@crest306.com,2/10 Net 30,Low,Active,2022-06-25,0.9519,1.0797,0.0086,SYNTHETIC_BUSINESS_SIMULATION
+VND-0307,Pinnacle Tech Solutions,CAT-003,USA,Chicago,contact@pinnacle307.com,Net 30,Low,Active,2021-08-21,0.8477,0.9799,0.0399,SYNTHETIC_BUSINESS_SIMULATION
+VND-0308,Alliance Global Trade 308,CAT-002,Mexico,Monterrey,contact@alliance308.com,Net 45,Low,Active,2023-05-18,0.9356,0.9485,0.0339,SYNTHETIC_BUSINESS_SIMULATION
+VND-0309,Atlas Tech Solutions 309,CAT-001,USA,Detroit,contact@atlas309.com,Net 45,High,Active,2020-01-22,0.99,1.0406,0.0281,SYNTHETIC_BUSINESS_SIMULATION
+VND-0310,Integrity Manufacturing,CAT-002,Singapore,Singapore,contact@integrity310.com,Net 30,Low,Active,2019-07-11,0.9873,0.9164,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0311,Atlas Enterprises 311,CAT-006,USA,Houston,contact@atlas311.com,Net 45,Low,Active,2019-09-06,0.8579,0.9779,0.0246,SYNTHETIC_BUSINESS_SIMULATION
+VND-0312,Omega Holdings 312,CAT-004,Mexico,Monterrey,contact@omega312.com,Net 45,Low,Active,2021-06-10,0.9616,0.9866,0.0242,SYNTHETIC_BUSINESS_SIMULATION
+VND-0313,Synergy Industries 313,CAT-006,USA,Houston,contact@synergy313.com,Net 45,Medium,Active,2023-12-24,0.9291,1.0588,0.0299,SYNTHETIC_BUSINESS_SIMULATION
+VND-0314,Vanguard Products Co 314,CAT-004,USA,Detroit,contact@vanguard314.com,Net 45,Low,Active,2019-07-26,0.99,1.032,0.0102,SYNTHETIC_BUSINESS_SIMULATION
+VND-0315,Aegis Logistics Ltd,CAT-007,India,Mumbai,contact@aegis315.com,Net 60,Medium,Active,2019-01-10,0.99,1.0017,0.0246,SYNTHETIC_BUSINESS_SIMULATION
+VND-0316,Benchmark Engineering,CAT-003,USA,Houston,contact@benchmark316.com,Net 60,Low,Active,2022-11-18,0.99,1.0452,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0317,Integrity Enterprises,CAT-007,USA,Detroit,contact@integrity317.com,2/10 Net 30,Low,Active,2021-04-26,0.99,1.0539,0.0179,SYNTHETIC_BUSINESS_SIMULATION
+VND-0318,Titan Materials Group,CAT-006,USA,Detroit,contact@titan318.com,2/10 Net 30,Low,Active,2021-12-06,0.7576,0.9833,0.0072,SYNTHETIC_BUSINESS_SIMULATION
+VND-0319,Apex Global Trade,CAT-007,South Korea,Seoul,contact@apex319.com,Net 60,Medium,Active,2023-11-25,0.99,1.0316,0.0021,SYNTHETIC_BUSINESS_SIMULATION
+VND-0320,Summit Logistics Ltd,CAT-007,Netherlands,Rotterdam,contact@summit320.com,2/10 Net 30,Low,Active,2022-09-11,0.9245,0.9893,0.0202,SYNTHETIC_BUSINESS_SIMULATION
+VND-0321,Precision International 321,CAT-001,Singapore,Singapore,contact@precision321.com,Net 45,Medium,Active,2020-08-11,0.8015,1.0519,0.0182,SYNTHETIC_BUSINESS_SIMULATION
+VND-0322,Zenith Industries,CAT-004,Japan,Tokyo,contact@zenith322.com,Net 45,Low,Active,2022-05-11,0.922,1.0578,0.0144,SYNTHETIC_BUSINESS_SIMULATION
+VND-0323,Global Engineering 323,CAT-005,India,Mumbai,contact@global323.com,Net 30,High,Active,2021-11-12,0.99,0.968,0.0234,SYNTHETIC_BUSINESS_SIMULATION
+VND-0324,Atlas Manufacturing,CAT-006,USA,Chicago,contact@atlas324.com,Net 30,Low,Active,2022-05-06,0.9733,0.8779,0.0389,SYNTHETIC_BUSINESS_SIMULATION
+VND-0325,Quantum Holdings,CAT-006,UK,Birmingham,contact@quantum325.com,Net 60,Medium,Active,2019-11-10,0.8248,1.2047,0.0115,SYNTHETIC_BUSINESS_SIMULATION
+VND-0326,Sterling Engineering 326,CAT-002,Germany,Frankfurt,contact@sterling326.com,Net 45,Low,Active,2022-03-15,0.8985,1.1649,0.0381,SYNTHETIC_BUSINESS_SIMULATION
+VND-0327,Crest Engineering 327,CAT-004,South Korea,Seoul,contact@crest327.com,2/10 Net 30,Low,Active,2023-11-27,0.9578,0.9559,0.0077,SYNTHETIC_BUSINESS_SIMULATION
+VND-0328,Summit Systems Inc,CAT-006,Germany,Frankfurt,contact@summit328.com,Net 30,Low,Active,2023-08-17,0.8797,1.0557,0.0343,SYNTHETIC_BUSINESS_SIMULATION
+VND-0329,Atlas Materials Group 329,CAT-005,USA,Houston,contact@atlas329.com,Net 30,Medium,Active,2019-09-17,0.7658,0.9845,0.0092,SYNTHETIC_BUSINESS_SIMULATION
+VND-0330,Summit Engineering,CAT-002,UK,Birmingham,contact@summit330.com,Net 45,Low,Active,2021-09-15,0.6933,1.1211,0.0295,SYNTHETIC_BUSINESS_SIMULATION
+VND-0331,Titan Holdings,CAT-006,Germany,Frankfurt,contact@titan331.com,2/10 Net 30,High,Active,2019-09-15,0.7776,1.1483,0.0383,SYNTHETIC_BUSINESS_SIMULATION
+VND-0332,Vanguard Enterprises,CAT-005,USA,Detroit,contact@vanguard332.com,2/10 Net 30,Low,Active,2022-10-02,0.9382,0.9702,0.0363,SYNTHETIC_BUSINESS_SIMULATION
+VND-0333,Dynamic Enterprises 333,CAT-007,Singapore,Singapore,contact@dynamic333.com,Net 60,Low,Active,2019-07-09,0.8311,0.9104,0.0221,SYNTHETIC_BUSINESS_SIMULATION
+VND-0334,Apex Global Trade 334,CAT-005,Germany,Frankfurt,contact@apex334.com,Net 30,Low,Active,2019-07-12,0.7032,0.9627,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0335,Atlas Supply Corp 335,CAT-001,UK,Birmingham,contact@atlas335.com,Net 30,Medium,Active,2022-01-10,0.9314,0.9574,0.0025,SYNTHETIC_BUSINESS_SIMULATION
+VND-0336,Omega Logistics Ltd 336,CAT-007,USA,Detroit,contact@omega336.com,2/10 Net 30,Low,Active,2021-07-15,0.5928,0.9978,0.0466,SYNTHETIC_BUSINESS_SIMULATION
+VND-0337,Quantum International 337,CAT-006,USA,Houston,contact@quantum337.com,Net 45,Low,Active,2021-02-06,0.8198,1.0375,0.005,SYNTHETIC_BUSINESS_SIMULATION
+VND-0338,Dynamic International 338,CAT-002,UK,Birmingham,contact@dynamic338.com,Net 45,Medium,Active,2019-01-10,0.9102,0.992,0.0169,SYNTHETIC_BUSINESS_SIMULATION
+VND-0339,Matrix Holdings 339,CAT-005,India,Mumbai,contact@matrix339.com,2/10 Net 30,Low,Active,2023-07-27,0.8574,1.0294,0.0337,SYNTHETIC_BUSINESS_SIMULATION
+VND-0340,Zenith Manufacturing,CAT-003,Mexico,Monterrey,contact@zenith340.com,Net 45,Low,Active,2021-04-24,0.7997,0.9983,0.0088,SYNTHETIC_BUSINESS_SIMULATION
+VND-0341,Titan Industries 341,CAT-004,Singapore,Singapore,contact@titan341.com,Net 30,Low,Active,2020-04-03,0.6376,1.0707,0.0311,SYNTHETIC_BUSINESS_SIMULATION
+VND-0342,Titan Engineering,CAT-004,USA,Chicago,contact@titan342.com,Net 30,Low,Active,2020-12-02,0.8519,1.0054,0.0277,SYNTHETIC_BUSINESS_SIMULATION
+VND-0343,Quantum Enterprises 343,CAT-005,Germany,Frankfurt,contact@quantum343.com,Net 45,High,Active,2019-03-17,0.7237,0.9577,0.0319,SYNTHETIC_BUSINESS_SIMULATION
+VND-0344,Global Manufacturing,CAT-005,India,Mumbai,contact@global344.com,Net 60,Low,Active,2023-10-25,0.7546,1.0373,0.0195,SYNTHETIC_BUSINESS_SIMULATION
+VND-0345,Pacific Fabricators 345,CAT-002,South Korea,Seoul,contact@pacific345.com,Net 60,Low,Active,2020-11-17,0.8065,0.9352,0.023,SYNTHETIC_BUSINESS_SIMULATION
+VND-0346,Zenith International,CAT-003,Japan,Tokyo,contact@zenith346.com,Net 30,Low,Active,2023-10-24,0.99,1.0343,0.0304,SYNTHETIC_BUSINESS_SIMULATION
+VND-0347,Nexus Holdings 347,CAT-004,Singapore,Singapore,contact@nexus347.com,2/10 Net 30,Low,Active,2019-06-21,0.7972,1.0069,0.0039,SYNTHETIC_BUSINESS_SIMULATION
+VND-0348,Pacific International 348,CAT-003,UK,Birmingham,contact@pacific348.com,2/10 Net 30,Low,Active,2022-03-10,0.5879,1.0349,0.0336,SYNTHETIC_BUSINESS_SIMULATION
+VND-0349,Quantum Logistics Ltd 349,CAT-004,UK,Birmingham,contact@quantum349.com,Net 45,Low,Active,2020-05-28,0.9419,1.1646,0.0203,SYNTHETIC_BUSINESS_SIMULATION
+VND-0350,Atlas Logistics Ltd 350,CAT-001,Mexico,Monterrey,contact@atlas350.com,2/10 Net 30,Medium,Active,2022-09-17,0.8072,0.9483,0.008,SYNTHETIC_BUSINESS_SIMULATION
+VND-0351,Pinnacle International 351,CAT-003,Germany,Frankfurt,contact@pinnacle351.com,Net 45,Low,Active,2021-11-03,0.8923,1.13,0.0248,SYNTHETIC_BUSINESS_SIMULATION
+VND-0352,Matrix Fabricators 352,CAT-001,South Korea,Seoul,contact@matrix352.com,Net 45,Medium,Active,2019-05-13,0.8548,0.9767,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0353,Pacific Engineering,CAT-001,Netherlands,Rotterdam,contact@pacific353.com,Net 30,High,Active,2020-10-24,0.9683,0.9938,0.0173,SYNTHETIC_BUSINESS_SIMULATION
+VND-0354,Pacific Components,CAT-004,Germany,Frankfurt,contact@pacific354.com,Net 45,Low,Active,2021-05-01,0.99,0.9659,0.0372,SYNTHETIC_BUSINESS_SIMULATION
+VND-0355,Summit Products Co 355,CAT-006,Germany,Frankfurt,contact@summit355.com,Net 30,Medium,Under Review,2022-04-23,0.8913,0.8849,0.0338,SYNTHETIC_BUSINESS_SIMULATION
+VND-0356,Pioneer Global Trade 356,CAT-004,Germany,Frankfurt,contact@pioneer356.com,Net 45,Low,Active,2023-06-25,0.8132,0.9642,0.0392,SYNTHETIC_BUSINESS_SIMULATION
+VND-0357,Global International 357,CAT-005,Mexico,Monterrey,contact@global357.com,Net 60,High,Active,2021-05-12,0.9285,0.9323,0.0103,SYNTHETIC_BUSINESS_SIMULATION
+VND-0358,Integrity Products Co,CAT-004,Mexico,Monterrey,contact@integrity358.com,Net 30,Medium,Active,2022-06-07,0.983,0.9732,0.0139,SYNTHETIC_BUSINESS_SIMULATION
+VND-0359,Sterling Materials Group,CAT-001,Canada,Toronto,contact@sterling359.com,Net 45,Low,Active,2020-01-09,0.7845,1.0339,0.0509,SYNTHETIC_BUSINESS_SIMULATION
+VND-0360,Dynamic Products Co,CAT-005,Netherlands,Rotterdam,contact@dynamic360.com,2/10 Net 30,Low,Active,2021-03-07,0.7732,1.0019,0.0412,SYNTHETIC_BUSINESS_SIMULATION
+VND-0361,Optima Manufacturing 361,CAT-005,Canada,Toronto,contact@optima361.com,Net 45,High,Active,2022-09-21,0.7738,1.0343,0.0172,SYNTHETIC_BUSINESS_SIMULATION
+VND-0362,Pacific Materials Group,CAT-007,Japan,Tokyo,contact@pacific362.com,2/10 Net 30,Low,Active,2022-08-06,0.9786,1.095,0.0588,SYNTHETIC_BUSINESS_SIMULATION
+VND-0363,Crest Systems Inc 363,CAT-002,South Korea,Seoul,contact@crest363.com,Net 45,Medium,Active,2023-08-06,0.8994,0.9717,0.0251,SYNTHETIC_BUSINESS_SIMULATION
+VND-0364,Dynamic Holdings,CAT-005,USA,Chicago,contact@dynamic364.com,Net 30,Medium,Active,2019-11-02,0.8505,0.9195,0.0371,SYNTHETIC_BUSINESS_SIMULATION
+VND-0365,Apex International 365,CAT-007,USA,Detroit,contact@apex365.com,Net 45,Low,Active,2019-12-05,0.6678,0.9514,0.0395,SYNTHETIC_BUSINESS_SIMULATION
+VND-0366,Apex Manufacturing,CAT-004,UK,Birmingham,contact@apex366.com,Net 60,Low,Active,2019-10-21,0.8777,1.0672,0.0282,SYNTHETIC_BUSINESS_SIMULATION
+VND-0367,Pacific Products Co 367,CAT-004,Netherlands,Rotterdam,contact@pacific367.com,2/10 Net 30,Low,Active,2019-01-18,0.8408,0.9262,0.0442,SYNTHETIC_BUSINESS_SIMULATION
+VND-0368,Dynamic International 368,CAT-001,USA,Chicago,contact@dynamic368.com,Net 60,Low,Active,2023-05-01,0.8478,1.0799,0.0135,SYNTHETIC_BUSINESS_SIMULATION
+VND-0369,Integrity Fabricators 369,CAT-006,India,Mumbai,contact@integrity369.com,2/10 Net 30,Low,Under Review,2020-02-04,0.7896,1.0259,0.0023,SYNTHETIC_BUSINESS_SIMULATION
+VND-0370,Integrity Logistics Ltd 370,CAT-002,Germany,Frankfurt,contact@integrity370.com,Net 60,Low,Active,2021-05-26,0.99,1.0227,0.0161,SYNTHETIC_BUSINESS_SIMULATION
+VND-0371,Quantum Supply Corp,CAT-004,South Korea,Seoul,contact@quantum371.com,2/10 Net 30,Low,Active,2023-04-23,0.9671,0.8923,0.0219,SYNTHETIC_BUSINESS_SIMULATION
+VND-0372,Zenith Tech Solutions 372,CAT-007,Singapore,Singapore,contact@zenith372.com,Net 30,Low,Active,2019-02-13,0.99,1.0411,0.0227,SYNTHETIC_BUSINESS_SIMULATION
+VND-0373,Quantum International 373,CAT-004,UK,Birmingham,contact@quantum373.com,Net 30,Medium,Active,2019-12-06,0.9435,1.0888,0.0261,SYNTHETIC_BUSINESS_SIMULATION
+VND-0374,Precision Enterprises 374,CAT-006,Canada,Toronto,contact@precision374.com,Net 60,Low,Active,2023-02-17,0.8559,0.9894,0.0054,SYNTHETIC_BUSINESS_SIMULATION
+VND-0375,Vanguard Manufacturing,CAT-007,Germany,Frankfurt,contact@vanguard375.com,2/10 Net 30,Low,Active,2021-01-03,0.6627,1.0678,0.012,SYNTHETIC_BUSINESS_SIMULATION
+VND-0376,Pacific Products Co 376,CAT-005,Japan,Tokyo,contact@pacific376.com,Net 30,Medium,Active,2020-06-01,0.8709,1.0568,0.0135,SYNTHETIC_BUSINESS_SIMULATION
+VND-0377,Summit Engineering 377,CAT-007,USA,Detroit,contact@summit377.com,2/10 Net 30,Low,Active,2019-05-06,0.9539,1.0492,0.006,SYNTHETIC_BUSINESS_SIMULATION
+VND-0378,Benchmark Manufacturing 378,CAT-007,Netherlands,Rotterdam,contact@benchmark378.com,2/10 Net 30,Medium,Active,2023-06-13,0.9886,1.0294,0.0476,SYNTHETIC_BUSINESS_SIMULATION
+VND-0379,Crest Logistics Ltd,CAT-006,India,Mumbai,contact@crest379.com,Net 30,Low,Active,2023-12-12,0.8781,0.9757,0.032,SYNTHETIC_BUSINESS_SIMULATION
+VND-0380,Vanguard Supply Corp 380,CAT-002,Canada,Toronto,contact@vanguard380.com,Net 30,Low,Active,2021-10-25,0.7184,1.076,0.0457,SYNTHETIC_BUSINESS_SIMULATION
+VND-0381,Pioneer Engineering,CAT-007,Canada,Toronto,contact@pioneer381.com,Net 60,Medium,Active,2019-11-09,0.8696,0.9865,0.0211,SYNTHETIC_BUSINESS_SIMULATION
+VND-0382,Matrix Enterprises 382,CAT-003,Germany,Frankfurt,contact@matrix382.com,2/10 Net 30,Low,Active,2022-03-22,0.99,0.9258,0.0236,SYNTHETIC_BUSINESS_SIMULATION
+VND-0383,Benchmark Holdings 383,CAT-001,Canada,Toronto,contact@benchmark383.com,Net 60,Low,Active,2020-12-03,0.9775,1.0401,0.0228,SYNTHETIC_BUSINESS_SIMULATION
+VND-0384,Precision Tech Solutions 384,CAT-004,USA,Detroit,contact@precision384.com,Net 45,Low,Active,2022-06-12,0.9801,0.9477,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0385,Titan Supply Corp 385,CAT-003,USA,Chicago,contact@titan385.com,2/10 Net 30,Medium,Active,2021-05-04,0.8663,1.0762,0.0442,SYNTHETIC_BUSINESS_SIMULATION
+VND-0386,Pinnacle Supply Corp 386,CAT-004,USA,Detroit,contact@pinnacle386.com,2/10 Net 30,Low,Active,2023-09-17,0.99,1.006,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0387,Omega Supply Corp 387,CAT-001,USA,Chicago,contact@omega387.com,Net 60,Low,Active,2023-02-20,0.99,0.9859,0.0218,SYNTHETIC_BUSINESS_SIMULATION
+VND-0388,Pioneer Systems Inc 388,CAT-007,South Korea,Seoul,contact@pioneer388.com,2/10 Net 30,Medium,Active,2019-05-14,0.9351,0.9502,0.0229,SYNTHETIC_BUSINESS_SIMULATION
+VND-0389,Quantum Systems Inc,CAT-006,USA,Houston,contact@quantum389.com,Net 45,Low,Active,2023-09-06,0.8188,0.997,0.0136,SYNTHETIC_BUSINESS_SIMULATION
+VND-0390,Pacific International 390,CAT-002,USA,Detroit,contact@pacific390.com,Net 60,High,Active,2021-05-16,0.8108,0.8875,0.0188,SYNTHETIC_BUSINESS_SIMULATION
+VND-0391,Pinnacle Supply Corp 391,CAT-004,USA,Detroit,contact@pinnacle391.com,Net 60,Low,Active,2022-05-16,0.8882,0.8834,0.0154,SYNTHETIC_BUSINESS_SIMULATION
+VND-0392,Precision Materials Group 392,CAT-002,Japan,Tokyo,contact@precision392.com,2/10 Net 30,Medium,Active,2023-10-07,0.8048,0.85,0.0217,SYNTHETIC_BUSINESS_SIMULATION
+VND-0393,Matrix Supply Corp 393,CAT-003,USA,Detroit,contact@matrix393.com,Net 30,High,Active,2022-06-27,0.9013,0.9398,0.0152,SYNTHETIC_BUSINESS_SIMULATION
+VND-0394,Pioneer International 394,CAT-004,South Korea,Seoul,contact@pioneer394.com,Net 60,Low,Active,2022-11-20,0.8004,1.1521,0.0191,SYNTHETIC_BUSINESS_SIMULATION
+VND-0395,Pinnacle Tech Solutions 395,CAT-005,South Korea,Seoul,contact@pinnacle395.com,Net 45,High,Active,2022-06-06,0.8092,0.8789,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0396,Quantum Materials Group,CAT-006,Japan,Tokyo,contact@quantum396.com,2/10 Net 30,High,Active,2023-04-11,0.7216,0.8735,0.0334,SYNTHETIC_BUSINESS_SIMULATION
+VND-0397,Quantum Tech Solutions,CAT-003,Canada,Toronto,contact@quantum397.com,Net 30,Medium,Active,2023-04-19,0.8317,1.0117,0.0442,SYNTHETIC_BUSINESS_SIMULATION
+VND-0398,Dynamic Logistics Ltd 398,CAT-007,Singapore,Singapore,contact@dynamic398.com,Net 30,Low,Active,2022-12-07,0.9697,0.8279,0.0092,SYNTHETIC_BUSINESS_SIMULATION
+VND-0399,Matrix Systems Inc 399,CAT-007,Japan,Tokyo,contact@matrix399.com,Net 30,Low,Active,2022-11-16,0.8669,1.0061,0.0166,SYNTHETIC_BUSINESS_SIMULATION
+VND-0400,Pinnacle Holdings 400,CAT-002,Japan,Tokyo,contact@pinnacle400.com,Net 60,High,Active,2020-12-14,0.815,0.9128,0.0412,SYNTHETIC_BUSINESS_SIMULATION
+VND-0401,Quantum Supply Corp 401,CAT-005,Mexico,Monterrey,contact@quantum401.com,2/10 Net 30,Low,Active,2023-07-18,0.9508,1.0187,0.0343,SYNTHETIC_BUSINESS_SIMULATION
+VND-0402,Integrity Products Co 402,CAT-004,India,Mumbai,contact@integrity402.com,Net 30,Medium,Active,2021-12-26,0.9087,0.9085,0.0216,SYNTHETIC_BUSINESS_SIMULATION
+VND-0403,Dynamic Engineering,CAT-001,Singapore,Singapore,contact@dynamic403.com,Net 30,Low,Active,2020-11-22,0.8671,0.8495,0.0118,SYNTHETIC_BUSINESS_SIMULATION
+VND-0404,Sterling Logistics Ltd,CAT-005,Singapore,Singapore,contact@sterling404.com,Net 30,Low,Active,2023-11-22,0.8893,1.1013,0.007,SYNTHETIC_BUSINESS_SIMULATION
+VND-0405,Synergy International 405,CAT-007,South Korea,Seoul,contact@synergy405.com,2/10 Net 30,Low,Active,2019-01-04,0.8154,1.142,0.0021,SYNTHETIC_BUSINESS_SIMULATION
+VND-0406,Alliance Manufacturing 406,CAT-006,UK,Birmingham,contact@alliance406.com,Net 45,Low,Active,2022-06-13,0.9719,1.1114,0.0162,SYNTHETIC_BUSINESS_SIMULATION
+VND-0407,Matrix Systems Inc 407,CAT-005,Singapore,Singapore,contact@matrix407.com,Net 45,Medium,Active,2021-01-16,0.8666,1.0649,0.0319,SYNTHETIC_BUSINESS_SIMULATION
+VND-0408,Titan Tech Solutions,CAT-001,Canada,Toronto,contact@titan408.com,Net 30,Low,Active,2020-06-10,0.7051,1.0826,0.0369,SYNTHETIC_BUSINESS_SIMULATION
+VND-0409,Optima Enterprises,CAT-005,Germany,Frankfurt,contact@optima409.com,2/10 Net 30,Low,Active,2021-08-04,0.7694,0.9828,0.0154,SYNTHETIC_BUSINESS_SIMULATION
+VND-0410,Matrix Global Trade,CAT-004,India,Mumbai,contact@matrix410.com,Net 60,Low,Active,2019-05-02,0.958,1.1048,0.0409,SYNTHETIC_BUSINESS_SIMULATION
+VND-0411,Atlas Supply Corp 411,CAT-007,USA,Chicago,contact@atlas411.com,Net 60,Low,Active,2019-11-26,0.7117,0.9355,0.0345,SYNTHETIC_BUSINESS_SIMULATION
+VND-0412,Nexus Products Co 412,CAT-002,India,Mumbai,contact@nexus412.com,Net 45,Low,Active,2023-03-11,0.99,0.9979,0.0242,SYNTHETIC_BUSINESS_SIMULATION
+VND-0413,Dynamic International 413,CAT-002,Mexico,Monterrey,contact@dynamic413.com,2/10 Net 30,Low,Active,2020-03-21,0.8326,0.9988,0.0282,SYNTHETIC_BUSINESS_SIMULATION
+VND-0414,Pacific International 414,CAT-001,Canada,Toronto,contact@pacific414.com,Net 45,Low,Active,2022-10-14,0.8806,0.9929,0.0144,SYNTHETIC_BUSINESS_SIMULATION
+VND-0415,Quantum Industries 415,CAT-002,India,Mumbai,contact@quantum415.com,Net 45,Low,Active,2021-12-26,0.8541,1.1279,0.0284,SYNTHETIC_BUSINESS_SIMULATION
+VND-0416,Precision Engineering 416,CAT-007,USA,Houston,contact@precision416.com,Net 45,Low,Active,2021-06-07,0.8505,1.0558,0.015,SYNTHETIC_BUSINESS_SIMULATION
+VND-0417,Matrix Supply Corp 417,CAT-006,Japan,Tokyo,contact@matrix417.com,2/10 Net 30,Low,Active,2023-11-11,0.8693,1.0358,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0418,Pioneer International 418,CAT-004,Netherlands,Rotterdam,contact@pioneer418.com,Net 30,Low,Active,2021-06-28,0.7673,1.1386,0.0535,SYNTHETIC_BUSINESS_SIMULATION
+VND-0419,Matrix Engineering,CAT-007,USA,Detroit,contact@matrix419.com,Net 60,Medium,Active,2023-10-03,0.6999,0.9566,0.0082,SYNTHETIC_BUSINESS_SIMULATION
+VND-0420,Pacific Logistics Ltd 420,CAT-001,South Korea,Seoul,contact@pacific420.com,Net 45,Low,Active,2021-02-06,0.8179,0.8417,0.0312,SYNTHETIC_BUSINESS_SIMULATION
+VND-0421,Sterling Global Trade,CAT-005,USA,Detroit,contact@sterling421.com,2/10 Net 30,Low,Active,2022-10-05,0.99,0.9264,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0422,Benchmark International 422,CAT-002,Canada,Toronto,contact@benchmark422.com,2/10 Net 30,High,Active,2023-12-21,0.8514,1.0881,0.0494,SYNTHETIC_BUSINESS_SIMULATION
+VND-0423,Nexus Components 423,CAT-004,USA,Detroit,contact@nexus423.com,Net 60,Low,Active,2020-03-11,0.8335,0.9915,0.0597,SYNTHETIC_BUSINESS_SIMULATION
+VND-0424,Matrix Engineering 424,CAT-007,USA,Chicago,contact@matrix424.com,Net 60,Low,Under Review,2019-08-05,0.7297,1.0203,0.027,SYNTHETIC_BUSINESS_SIMULATION
+VND-0425,Summit Fabricators,CAT-005,Canada,Toronto,contact@summit425.com,2/10 Net 30,Low,Active,2022-11-16,0.9108,0.9687,0.024,SYNTHETIC_BUSINESS_SIMULATION
+VND-0426,Omega Global Trade,CAT-004,Mexico,Monterrey,contact@omega426.com,Net 45,Low,Active,2019-10-01,0.8457,1.0302,0.0196,SYNTHETIC_BUSINESS_SIMULATION
+VND-0427,Zenith Tech Solutions 427,CAT-003,USA,Chicago,contact@zenith427.com,Net 45,Low,Active,2023-05-06,0.7027,1.101,0.0064,SYNTHETIC_BUSINESS_SIMULATION
+VND-0428,Matrix Engineering 428,CAT-007,India,Mumbai,contact@matrix428.com,2/10 Net 30,Medium,Active,2023-09-04,0.8146,0.8291,0.0671,SYNTHETIC_BUSINESS_SIMULATION
+VND-0429,Benchmark Supply Corp,CAT-007,Japan,Tokyo,contact@benchmark429.com,Net 60,Low,Active,2023-01-25,0.8745,1.0228,0.0278,SYNTHETIC_BUSINESS_SIMULATION
+VND-0430,Crest Enterprises,CAT-002,UK,Birmingham,contact@crest430.com,2/10 Net 30,Low,Active,2019-12-27,0.9445,0.9842,0.0177,SYNTHETIC_BUSINESS_SIMULATION
+VND-0431,Synergy Systems Inc 431,CAT-003,Germany,Frankfurt,contact@synergy431.com,Net 30,Medium,Active,2022-05-12,0.9394,0.8,0.0298,SYNTHETIC_BUSINESS_SIMULATION
+VND-0432,Precision Enterprises 432,CAT-007,USA,Houston,contact@precision432.com,Net 45,Low,Active,2020-12-19,0.8995,1.0899,0.0342,SYNTHETIC_BUSINESS_SIMULATION
+VND-0433,Atlas Materials Group 433,CAT-005,India,Mumbai,contact@atlas433.com,2/10 Net 30,Low,Active,2020-10-05,0.7828,0.8896,0.0106,SYNTHETIC_BUSINESS_SIMULATION
+VND-0434,Summit Fabricators 434,CAT-007,Germany,Frankfurt,contact@summit434.com,Net 30,Low,Active,2023-06-18,0.9662,1.0763,0.0277,SYNTHETIC_BUSINESS_SIMULATION
+VND-0435,Alliance Engineering,CAT-002,UK,Birmingham,contact@alliance435.com,Net 60,Low,Active,2021-05-19,0.9525,1.0413,0.0104,SYNTHETIC_BUSINESS_SIMULATION
+VND-0436,Alliance Fabricators,CAT-006,UK,Birmingham,contact@alliance436.com,Net 30,Medium,Active,2020-07-02,0.9232,1.0951,0.0306,SYNTHETIC_BUSINESS_SIMULATION
+VND-0437,Alliance Fabricators 437,CAT-002,Singapore,Singapore,contact@alliance437.com,Net 45,Medium,Active,2020-03-23,0.8773,0.9295,0.0176,SYNTHETIC_BUSINESS_SIMULATION
+VND-0438,Optima Fabricators,CAT-007,Germany,Frankfurt,contact@optima438.com,2/10 Net 30,Low,Active,2022-03-19,0.8055,0.9366,0.0154,SYNTHETIC_BUSINESS_SIMULATION
+VND-0439,Synergy Tech Solutions 439,CAT-004,Singapore,Singapore,contact@synergy439.com,2/10 Net 30,Medium,Active,2022-02-21,0.6906,1.0171,0.02,SYNTHETIC_BUSINESS_SIMULATION
+VND-0440,Precision International 440,CAT-006,UK,Birmingham,contact@precision440.com,Net 60,Medium,Active,2021-08-16,0.7983,0.8714,0.0086,SYNTHETIC_BUSINESS_SIMULATION
+VND-0441,Optima Engineering,CAT-007,USA,Chicago,contact@optima441.com,Net 30,Low,Active,2022-11-22,0.9629,0.9845,0.016,SYNTHETIC_BUSINESS_SIMULATION
+VND-0442,Atlas Materials Group 442,CAT-007,USA,Houston,contact@atlas442.com,2/10 Net 30,Low,Active,2020-07-27,0.6796,1.0048,0.0242,SYNTHETIC_BUSINESS_SIMULATION
+VND-0443,Summit Enterprises 443,CAT-003,Japan,Tokyo,contact@summit443.com,Net 60,Low,Active,2021-09-19,0.578,1.0147,0.047,SYNTHETIC_BUSINESS_SIMULATION
+VND-0444,Pinnacle Engineering,CAT-007,Mexico,Monterrey,contact@pinnacle444.com,Net 60,Low,Active,2019-01-04,0.99,1.0646,0.0054,SYNTHETIC_BUSINESS_SIMULATION
+VND-0445,Synergy Systems Inc 445,CAT-001,Mexico,Monterrey,contact@synergy445.com,Net 30,Medium,Active,2020-08-15,0.986,1.2208,0.0259,SYNTHETIC_BUSINESS_SIMULATION
+VND-0446,Apex International 446,CAT-006,Germany,Frankfurt,contact@apex446.com,Net 45,Low,Active,2021-03-28,0.8291,0.9444,0.0139,SYNTHETIC_BUSINESS_SIMULATION
+VND-0447,Alliance Supply Corp,CAT-003,Singapore,Singapore,contact@alliance447.com,Net 60,Low,Active,2019-06-22,0.7978,1.0897,0.02,SYNTHETIC_BUSINESS_SIMULATION
+VND-0448,Synergy Logistics Ltd,CAT-004,USA,Chicago,contact@synergy448.com,Net 60,Low,Active,2020-07-21,0.8791,0.9738,0.0223,SYNTHETIC_BUSINESS_SIMULATION
+VND-0449,Precision Global Trade 449,CAT-001,USA,Houston,contact@precision449.com,Net 45,Medium,Active,2022-02-05,0.9625,0.9306,0.0101,SYNTHETIC_BUSINESS_SIMULATION
+VND-0450,Benchmark Manufacturing 450,CAT-006,UK,Birmingham,contact@benchmark450.com,2/10 Net 30,Low,Active,2019-01-23,0.8496,0.9619,0.0331,SYNTHETIC_BUSINESS_SIMULATION
+VND-0451,Optima Fabricators 451,CAT-007,USA,Houston,contact@optima451.com,2/10 Net 30,Medium,Active,2020-08-03,0.9651,0.989,0.0259,SYNTHETIC_BUSINESS_SIMULATION
+VND-0452,Zenith International 452,CAT-006,USA,Houston,contact@zenith452.com,Net 30,Low,Active,2019-06-12,0.8697,0.8049,0.018,SYNTHETIC_BUSINESS_SIMULATION
+VND-0453,Global Logistics Ltd 453,CAT-007,Canada,Toronto,contact@global453.com,Net 45,Low,Active,2020-02-17,0.9765,1.0989,0.0213,SYNTHETIC_BUSINESS_SIMULATION
+VND-0454,Benchmark Industries 454,CAT-006,Netherlands,Rotterdam,contact@benchmark454.com,Net 45,Low,Active,2022-06-24,0.8997,1.0493,0.0381,SYNTHETIC_BUSINESS_SIMULATION
+VND-0455,Summit Holdings 455,CAT-002,India,Mumbai,contact@summit455.com,2/10 Net 30,Low,Active,2023-11-15,0.8801,1.0481,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0456,Summit Supply Corp 456,CAT-002,USA,Houston,contact@summit456.com,Net 30,Low,Active,2023-12-13,0.6504,0.9593,0.0178,SYNTHETIC_BUSINESS_SIMULATION
+VND-0457,Sterling International 457,CAT-007,South Korea,Seoul,contact@sterling457.com,Net 45,Medium,Active,2020-05-21,0.9127,1.024,0.0293,SYNTHETIC_BUSINESS_SIMULATION
+VND-0458,Precision Manufacturing 458,CAT-005,UK,Birmingham,contact@precision458.com,Net 60,Low,Active,2019-11-10,0.7661,1.0536,0.0039,SYNTHETIC_BUSINESS_SIMULATION
+VND-0459,Summit Components,CAT-005,Netherlands,Rotterdam,contact@summit459.com,Net 45,Low,Active,2022-05-21,0.9176,0.9278,0.007,SYNTHETIC_BUSINESS_SIMULATION
+VND-0460,Vanguard Systems Inc,CAT-004,Germany,Frankfurt,contact@vanguard460.com,2/10 Net 30,Low,Active,2019-04-16,0.99,0.928,0.0296,SYNTHETIC_BUSINESS_SIMULATION
+VND-0461,Synergy Engineering,CAT-005,USA,Houston,contact@synergy461.com,Net 30,Medium,Active,2021-06-05,0.8256,0.987,0.0206,SYNTHETIC_BUSINESS_SIMULATION
+VND-0462,Quantum Fabricators,CAT-004,Netherlands,Rotterdam,contact@quantum462.com,Net 60,Low,Active,2023-11-06,0.7798,0.9817,0.0051,SYNTHETIC_BUSINESS_SIMULATION
+VND-0463,Aegis Systems Inc,CAT-001,USA,Houston,contact@aegis463.com,Net 30,Low,Active,2019-05-07,0.99,1.0628,0.0197,SYNTHETIC_BUSINESS_SIMULATION
+VND-0464,Vanguard Products Co 464,CAT-007,USA,Chicago,contact@vanguard464.com,2/10 Net 30,High,Active,2023-05-21,0.8537,0.9055,0.0367,SYNTHETIC_BUSINESS_SIMULATION
+VND-0465,Atlas Components 465,CAT-004,Canada,Toronto,contact@atlas465.com,2/10 Net 30,Medium,Active,2019-11-18,0.9238,1.0016,0.0301,SYNTHETIC_BUSINESS_SIMULATION
+VND-0466,Dynamic Engineering 466,CAT-003,USA,Detroit,contact@dynamic466.com,Net 30,Low,Active,2021-02-17,0.9392,1.0081,0.0432,SYNTHETIC_BUSINESS_SIMULATION
+VND-0467,Summit Systems Inc 467,CAT-005,USA,Detroit,contact@summit467.com,Net 60,Low,Active,2022-10-21,0.8965,1.0041,0.0226,SYNTHETIC_BUSINESS_SIMULATION
+VND-0468,Synergy Holdings 468,CAT-001,Singapore,Singapore,contact@synergy468.com,Net 60,Medium,Active,2022-12-28,0.9044,0.8719,0.0076,SYNTHETIC_BUSINESS_SIMULATION
+VND-0469,Zenith Industries 469,CAT-001,Germany,Frankfurt,contact@zenith469.com,2/10 Net 30,Low,Active,2019-08-20,0.8697,0.8685,0.0174,SYNTHETIC_BUSINESS_SIMULATION
+VND-0470,Pioneer Industries 470,CAT-006,Japan,Tokyo,contact@pioneer470.com,Net 45,Low,Active,2019-01-23,0.99,1.0017,0.0235,SYNTHETIC_BUSINESS_SIMULATION
+VND-0471,Pinnacle Global Trade 471,CAT-002,USA,Chicago,contact@pinnacle471.com,2/10 Net 30,High,Active,2021-09-17,0.754,0.9507,0.0144,SYNTHETIC_BUSINESS_SIMULATION
+VND-0472,Crest Tech Solutions 472,CAT-003,USA,Detroit,contact@crest472.com,Net 45,Low,Active,2021-12-04,0.8482,0.9111,0.0237,SYNTHETIC_BUSINESS_SIMULATION
+VND-0473,Apex Materials Group 473,CAT-003,Canada,Toronto,contact@apex473.com,Net 30,Medium,Active,2021-12-19,0.99,0.9188,0.0078,SYNTHETIC_BUSINESS_SIMULATION
+VND-0474,Synergy Supply Corp 474,CAT-004,Mexico,Monterrey,contact@synergy474.com,Net 60,High,Active,2019-08-28,0.7542,1.079,0.0189,SYNTHETIC_BUSINESS_SIMULATION
+VND-0475,Benchmark Logistics Ltd 475,CAT-002,South Korea,Seoul,contact@benchmark475.com,Net 60,Medium,Active,2019-10-22,0.7965,1.1672,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0476,Crest Supply Corp,CAT-006,Germany,Frankfurt,contact@crest476.com,Net 30,Low,Active,2019-01-08,0.8985,0.9848,0.0146,SYNTHETIC_BUSINESS_SIMULATION
+VND-0477,Vanguard Enterprises 477,CAT-004,South Korea,Seoul,contact@vanguard477.com,Net 45,Medium,Active,2020-01-18,0.6588,1.1227,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0478,Atlas Global Trade,CAT-004,Singapore,Singapore,contact@atlas478.com,Net 45,Low,Active,2021-04-14,0.8533,0.9657,0.0288,SYNTHETIC_BUSINESS_SIMULATION
+VND-0479,Crest Materials Group 479,CAT-007,Japan,Tokyo,contact@crest479.com,Net 30,High,Active,2023-06-04,0.7202,1.037,0.0504,SYNTHETIC_BUSINESS_SIMULATION
+VND-0480,Integrity Holdings 480,CAT-002,USA,Chicago,contact@integrity480.com,Net 45,Low,Active,2023-01-13,0.7437,1.0341,0.0203,SYNTHETIC_BUSINESS_SIMULATION
+VND-0481,Precision Products Co,CAT-007,Mexico,Monterrey,contact@precision481.com,Net 60,Medium,Active,2021-06-03,0.99,0.9847,0.0308,SYNTHETIC_BUSINESS_SIMULATION
+VND-0482,Dynamic Enterprises 482,CAT-003,USA,Chicago,contact@dynamic482.com,Net 45,Low,Active,2021-10-26,0.7507,1.1187,0.0253,SYNTHETIC_BUSINESS_SIMULATION
+VND-0483,Global Global Trade 483,CAT-002,Netherlands,Rotterdam,contact@global483.com,2/10 Net 30,Low,Active,2021-10-16,0.755,1.0484,0.0332,SYNTHETIC_BUSINESS_SIMULATION
+VND-0484,Summit Global Trade 484,CAT-007,UK,Birmingham,contact@summit484.com,Net 45,Medium,Active,2020-01-14,0.8348,0.9651,0.019,SYNTHETIC_BUSINESS_SIMULATION
+VND-0485,Apex Manufacturing 485,CAT-003,UK,Birmingham,contact@apex485.com,Net 30,Low,Active,2021-01-25,0.8442,0.9482,0.0312,SYNTHETIC_BUSINESS_SIMULATION
+VND-0486,Pacific International 486,CAT-006,India,Mumbai,contact@pacific486.com,Net 60,High,Active,2019-04-17,0.8619,0.9481,0.0398,SYNTHETIC_BUSINESS_SIMULATION
+VND-0487,Zenith International 487,CAT-001,Mexico,Monterrey,contact@zenith487.com,Net 45,Low,Active,2021-02-02,0.6933,1.0806,0.0097,SYNTHETIC_BUSINESS_SIMULATION
+VND-0488,Zenith Products Co,CAT-004,UK,Birmingham,contact@zenith488.com,Net 60,Low,Active,2022-12-03,0.9591,0.9031,0.031,SYNTHETIC_BUSINESS_SIMULATION
+VND-0489,Benchmark Supply Corp 489,CAT-002,UK,Birmingham,contact@benchmark489.com,2/10 Net 30,Low,Active,2019-10-19,0.8814,0.9237,0.0139,SYNTHETIC_BUSINESS_SIMULATION
+VND-0490,Vanguard International,CAT-002,Singapore,Singapore,contact@vanguard490.com,Net 45,High,Active,2021-05-28,0.9486,1.1581,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0491,Optima Products Co,CAT-006,Canada,Toronto,contact@optima491.com,Net 60,Low,Active,2021-08-09,0.7901,0.8936,0.0172,SYNTHETIC_BUSINESS_SIMULATION
+VND-0492,Zenith Supply Corp,CAT-002,Germany,Frankfurt,contact@zenith492.com,Net 30,Medium,Active,2020-02-06,0.9722,0.8839,0.0198,SYNTHETIC_BUSINESS_SIMULATION
+VND-0493,Matrix Enterprises 493,CAT-004,South Korea,Seoul,contact@matrix493.com,Net 30,Low,Active,2023-06-25,0.9687,0.9663,0.0,SYNTHETIC_BUSINESS_SIMULATION
+VND-0494,Summit Enterprises 494,CAT-004,Japan,Tokyo,contact@summit494.com,Net 60,Medium,Active,2019-02-06,0.8999,1.0989,0.0039,SYNTHETIC_BUSINESS_SIMULATION
+VND-0495,Pacific Tech Solutions,CAT-006,India,Mumbai,contact@pacific495.com,Net 30,Medium,Active,2020-06-05,0.7021,1.0256,0.0124,SYNTHETIC_BUSINESS_SIMULATION
+VND-0496,Precision Global Trade 496,CAT-003,Germany,Frankfurt,contact@precision496.com,2/10 Net 30,Low,Active,2023-01-22,0.8718,0.9459,0.0205,SYNTHETIC_BUSINESS_SIMULATION
+VND-0497,Global Tech Solutions,CAT-001,USA,Detroit,contact@global497.com,2/10 Net 30,High,Active,2022-09-24,0.7713,0.9131,0.0302,SYNTHETIC_BUSINESS_SIMULATION
+VND-0498,Dynamic Manufacturing 498,CAT-004,USA,Houston,contact@dynamic498.com,Net 30,Medium,Active,2020-02-01,0.7651,0.8619,0.0098,SYNTHETIC_BUSINESS_SIMULATION
+VND-0499,Vanguard Fabricators,CAT-002,Germany,Frankfurt,contact@vanguard499.com,Net 45,Low,Active,2022-06-22,0.8336,1.037,0.0318,SYNTHETIC_BUSINESS_SIMULATION
+VND-0500,Synergy Holdings 500,CAT-005,USA,Houston,contact@synergy500.com,Net 60,Medium,Under Review,2019-01-03,0.8548,0.9522,0.0413,SYNTHETIC_BUSINESS_SIMULATION

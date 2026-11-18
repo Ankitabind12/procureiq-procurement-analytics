@@ -1,0 +1,185 @@
+{
+  "summary_kpis": {
+    "1_total_procurement_spend": 556519550.55,
+    "2_vendor_ontime_delivery_rate_pct": 87.14,
+    "3_avg_delivery_delay_days": 0.99,
+    "4_po_fulfilment_rate_pct": 74.68,
+    "5_invoice_discrepancy_rate_pct": 17.02,
+    "6_vendor_compliance_rate_pct": 79.6,
+    "7_avg_purchase_cost_po": 111303.91,
+    "7b_avg_purchase_price_sku": 490.99,
+    "8_department_spend_breakdown": [
+      {
+        "department_name": "Packaging & Assembly",
+        "department_spend": 80429878.4,
+        "spend_share_pct": 14.45
+      },
+      {
+        "department_name": "Facilities & Maintenance",
+        "department_spend": 77883651.75,
+        "spend_share_pct": 13.99
+      },
+      {
+        "department_name": "Research & Development",
+        "department_spend": 74721447.1,
+        "spend_share_pct": 13.43
+      },
+      {
+        "department_name": "Corporate Administration",
+        "department_spend": 71307282.75,
+        "spend_share_pct": 12.81
+      },
+      {
+        "department_name": "Quality Assurance",
+        "department_spend": 68309843.45,
+        "spend_share_pct": 12.27
+      },
+      {
+        "department_name": "Supply Chain & Logistics",
+        "department_spend": 65813452.7,
+        "spend_share_pct": 11.83
+      },
+      {
+        "department_name": "Manufacturing & Operations",
+        "department_spend": 63690308.65,
+        "spend_share_pct": 11.44
+      },
+      {
+        "department_name": "Information Technology",
+        "department_spend": 54363685.75,
+        "spend_share_pct": 9.77
+      }
+    ],
+    "9_avg_vendor_performance_score": 92.4,
+    "10_po_cancellation_rate_pct": 8.5
+  },
+  "scorecard_distribution": {
+    "avg_vendor_performance_score": 92.4,
+    "avg_reliability_score": 30.54,
+    "avg_price_score": 24.49,
+    "avg_quality_score": 24.55,
+    "avg_compliance_pillar_score": 12.82,
+    "tier1_partners_count": 392.0,
+    "tier2_preferred_count": 106.0,
+    "tier3_operational_count": 2.0,
+    "tier4_high_risk_count": 0.0
+  },
+  "top_performing_vendors": [
+    {
+      "vendor_id": "VND-0452",
+      "vendor_name": "Zenith International 452",
+      "primary_category": "Facilities & MRO",
+      "composite_performance_score": 104.08,
+      "vendor_performance_tier": "Tier 1 - Strategic Partner",
+      "total_spend": 1591412.45
+    },
+    {
+      "vendor_id": "VND-0469",
+      "vendor_name": "Zenith Industries 469",
+      "primary_category": "Raw Industrial Materials",
+      "composite_performance_score": 102.81,
+      "vendor_performance_tier": "Tier 1 - Strategic Partner",
+      "total_spend": 465626.75
+    },
+    {
+      "vendor_id": "VND-0304",
+      "vendor_name": "Zenith Tech Solutions 304",
+      "primary_category": "Electronic & Electrical",
+      "composite_performance_score": 102.57,
+      "vendor_performance_tier": "Tier 1 - Strategic Partner",
+      "total_spend": 825356.0
+    },
+    {
+      "vendor_id": "VND-0324",
+      "vendor_name": "Atlas Manufacturing",
+      "primary_category": "Facilities & MRO",
+      "composite_performance_score": 102.51,
+      "vendor_performance_tier": "Tier 1 - Strategic Partner",
+      "total_spend": 52486.7
+    },
+    {
+      "vendor_id": "VND-0063",
+      "vendor_name": "Aegis Enterprises",
+      "primary_category": "Professional & Engineering Services",
+      "composite_performance_score": 102.4,
+      "vendor_performance_tier": "Tier 1 - Strategic Partner",
+      "total_spend": 715577.0
+    }
+  ],
+  "vendors_requiring_improvement": [
+    {
+      "vendor_id": "VND-0495",
+      "vendor_name": "Pacific Tech Solutions",
+      "primary_category": "Facilities & MRO",
+      "composite_performance_score": 69.73,
+      "vendor_performance_tier": "Tier 3 - Operational Supplier",
+      "ontime_delivery_rate": 45.45,
+      "avg_delay_days": 6.27,
+      "total_spend": 1314045.1
+    },
+    {
+      "vendor_id": "VND-0477",
+      "vendor_name": "Vanguard Enterprises 477",
+      "primary_category": "Packaging & Freight Supplies",
+      "composite_performance_score": 74.95,
+      "vendor_performance_tier": "Tier 3 - Operational Supplier",
+      "ontime_delivery_rate": 66.67,
+      "avg_delay_days": 3.78,
+      "total_spend": 1098095.4
+    },
+    {
+      "vendor_id": "VND-0060",
+      "vendor_name": "Atlas Components",
+      "primary_category": "Raw Industrial Materials",
+      "composite_performance_score": 75.74,
+      "vendor_performance_tier": "Tier 2 - Preferred Supplier",
+      "ontime_delivery_rate": 66.67,
+      "avg_delay_days": 3.0,
+      "total_spend": 125522.25
+    },
+    {
+      "vendor_id": "VND-0250",
+      "vendor_name": "Precision International",
+      "primary_category": "Professional & Engineering Services",
+      "composite_performance_score": 76.18,
+      "vendor_performance_tier": "Tier 2 - Preferred Supplier",
+      "ontime_delivery_rate": 55.56,
+      "avg_delay_days": 2.44,
+      "total_spend": 643518.45
+    },
+    {
+      "vendor_id": "VND-0082",
+      "vendor_name": "Global Fabricators",
+      "primary_category": "IT Hardware & Cloud Infrastructure",
+      "composite_performance_score": 76.3,
+      "vendor_performance_tier": "Tier 2 - Preferred Supplier",
+      "ontime_delivery_rate": 41.67,
+      "avg_delay_days": 4.25,
+      "total_spend": 4371917.3
+    }
+  ],
+  "highest_spend_categories": [
+    {
+      "category_name": "Packaging & Freight Supplies",
+      "spend_tier": "Tier 2 - Operational",
+      "total_category_spend": 96167937.95,
+      "active_suppliers_count": 76
+    },
+    {
+      "category_name": "Professional & Engineering Services",
+      "spend_tier": "Tier 2 - Operational",
+      "total_category_spend": 89288881.9,
+      "active_suppliers_count": 82
+    },
+    {
+      "category_name": "Facilities & MRO",
+      "spend_tier": "Tier 3 - Tactical",
+      "total_category_spend": 77998470.05,
+      "active_suppliers_count": 65
+    }
+  ],
+  "leakage_exposure": {
+    "total_leakage_dollars": 14074490.48,
+    "expired_certs_count": 71.0
+  }
+}

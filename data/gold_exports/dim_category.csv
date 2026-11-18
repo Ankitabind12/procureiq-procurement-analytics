@@ -1,0 +1,8 @@
+category_id,category_name,spend_tier,description
+CAT-001,Raw Industrial Materials,Tier 1 - Strategic,"Steel, aluminum alloys, polymers, industrial chemicals"
+CAT-006,Facilities & MRO,Tier 3 - Tactical,"Safety gear, lubricants, janitorial, HVAC supplies"
+CAT-004,Packaging & Freight Supplies,Tier 2 - Operational,"Corrugated cartons, pallets, protective wrap, strapping"
+CAT-003,Electronic & Electrical,Tier 2 - Operational,"Microcontrollers, PCBs, power supplies, sensors, wire harnesses"
+CAT-007,Professional & Engineering Services,Tier 2 - Operational,"Consulting, engineering audits, specialized fabrication"
+CAT-005,IT Hardware & Cloud Infrastructure,Tier 1 - Strategic,"Enterprise servers, networking gear, laptops, peripherals"
+CAT-002,Industrial Machinery & Tools,Tier 1 - Strategic,"CNC tools, hydraulic pumps, replacement parts, robotic components"

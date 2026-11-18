@@ -1,0 +1,9 @@
+department_id,department_name,cost_center,annual_budget,manager
+DEP-007,Corporate Administration,CC-107,3000000.0,Thomas Clark
+DEP-001,Manufacturing & Operations,CC-101,15000000.0,Sarah Jenkins
+DEP-002,Supply Chain & Logistics,CC-102,8500000.0,Marcus Vance
+DEP-006,Quality Assurance,CC-106,3500000.0,Patricia Gomez
+DEP-003,Information Technology,CC-103,12000000.0,David Chen
+DEP-008,Packaging & Assembly,CC-108,6000000.0,Aisha Patel
+DEP-004,Research & Development,CC-104,9500000.0,Elena Rostova
+DEP-005,Facilities & Maintenance,CC-105,4500000.0,Robert Miller

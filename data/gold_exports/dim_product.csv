@@ -1,0 +1,101 @@
+product_id,product_name,category_id,category_name,standard_cost,uom,created_date
+PRD-0001,Cold Rolled Steel Coil,CAT-001,Raw Industrial Materials,450.0,Metric Ton,2023-01-01
+PRD-0031,Tamper-Evident Security Seal,CAT-004,Packaging & Freight Supplies,22.0,Pack (100),2023-01-01
+PRD-0088,High-Visibility Class 3 Vest (Variant #88),CAT-006,Facilities & MRO,16.33,Unit,2023-01-01
+PRD-0046,Lithium Complex Grease Cartridge,CAT-006,Facilities & MRO,9.5,Tube,2023-01-01
+PRD-0063,Disinfectant Sanitizer Concentrate (Variant #63),CAT-006,Facilities & MRO,42.22,Gallon (4x1),2023-01-01
+PRD-0065,High-Density Polyethylene Resin (Variant #65),CAT-001,Raw Industrial Materials,203.27,Metric Ton,2023-01-01
+PRD-0076,Steel Strapping Band 19mm (Variant #76),CAT-004,Packaging & Freight Supplies,67.04,Roll (300m),2023-01-01
+PRD-0095,Tamper-Evident Security Seal (Variant #95),CAT-004,Packaging & Freight Supplies,23.94,Pack (100),2023-01-01
+PRD-0011,Pneumatic Control Valve 24V,CAT-002,Industrial Machinery & Tools,165.0,Unit,2023-01-01
+PRD-0034,Managed Network Switch 48-Port,CAT-005,IT Hardware & Cloud Infrastructure,1850.0,Unit,2023-01-01
+PRD-0084,Nickel Alloy Strip (Variant #84),CAT-001,Raw Industrial Materials,545.65,Kilogram,2023-01-01
+PRD-0014,High-Pressure Hose 10m,CAT-002,Industrial Machinery & Tools,72.0,Unit,2023-01-01
+PRD-0030,Cushioned Bubble Wrap 100m,CAT-004,Packaging & Freight Supplies,45.0,Roll,2023-01-01
+PRD-0052,Thermal Imaging Electrical Inspection,CAT-007,Professional & Engineering Services,1500.0,Inspection,2023-01-01
+PRD-0053,Welding Certification Inspection,CAT-007,Professional & Engineering Services,950.0,Batch,2023-01-01
+PRD-0079,Kevlar Cut-Resistant Gloves (Variant #79),CAT-006,Facilities & MRO,15.86,Pair,2023-01-01
+PRD-0083,Precision Metrology Calibration (Variant #83),CAT-007,Professional & Engineering Services,1129.94,Session,2023-01-01
+PRD-0085,Industrial Copper Tubing (Variant #85),CAT-001,Raw Industrial Materials,103.3,Meter,2023-01-01
+PRD-0003,High-Density Polyethylene Resin,CAT-001,Raw Industrial Materials,180.0,Metric Ton,2023-01-01
+PRD-0007,Titanium Fasteners Pack,CAT-001,Raw Industrial Materials,120.0,Box (100),2023-01-01
+PRD-0015,Variable Frequency Drive 5HP,CAT-002,Industrial Machinery & Tools,680.0,Unit,2023-01-01
+PRD-0016,Laser Alignment Sensor,CAT-002,Industrial Machinery & Tools,920.0,Unit,2023-01-01
+PRD-0027,Industrial Stretch Film 500mm,CAT-004,Packaging & Freight Supplies,18.0,Roll,2023-01-01
+PRD-0029,Steel Strapping Band 19mm,CAT-004,Packaging & Freight Supplies,65.0,Roll (300m),2023-01-01
+PRD-0041,ANSI Approved Hard Hat,CAT-006,Facilities & MRO,25.0,Unit,2023-01-01
+PRD-0056,Cleanroom Environmental Validation,CAT-007,Professional & Engineering Services,2800.0,Audit,2023-01-01
+PRD-0057,Kevlar Cut-Resistant Gloves (Variant #57),CAT-006,Facilities & MRO,12.47,Pair,2023-01-01
+PRD-0090,Dual-Band Access Point Wi-Fi 6 (Variant #90),CAT-005,IT Hardware & Cloud Infrastructure,367.62,Unit,2023-01-01
+PRD-0004,Industrial Copper Tubing,CAT-001,Raw Industrial Materials,85.0,Meter,2023-01-01
+PRD-0008,Synthetic Lubricant Drum,CAT-001,Raw Industrial Materials,210.0,Barrel (200L),2023-01-01
+PRD-0019,Shielded Ethernet Cable Cat6A,CAT-003,Electronic & Electrical,110.0,Spool (100m),2023-01-01
+PRD-0047,Disinfectant Sanitizer Concentrate,CAT-006,Facilities & MRO,45.0,Gallon (4x1),2023-01-01
+PRD-0054,Metallurgical Lab Analysis,CAT-007,Professional & Engineering Services,750.0,Sample,2023-01-01
+PRD-0058,Relay Module 8-Channel (Variant #58),CAT-003,Electronic & Electrical,31.94,Unit,2023-01-01
+PRD-0069,Optical Encoder 1000PPR (Variant #69),CAT-003,Electronic & Electrical,170.06,Unit,2023-01-01
+PRD-0081,Steel Strapping Band 19mm (Variant #81),CAT-004,Packaging & Freight Supplies,80.98,Roll (300m),2023-01-01
+PRD-0018,Industrial Power Supply 24V 10A,CAT-003,Electronic & Electrical,95.0,Unit,2023-01-01
+PRD-0037,Dual-Band Access Point Wi-Fi 6,CAT-005,IT Hardware & Cloud Infrastructure,320.0,Unit,2023-01-01
+PRD-0040,Ergonomic UltraWide Monitor 34-inch,CAT-005,IT Hardware & Cloud Infrastructure,550.0,Unit,2023-01-01
+PRD-0060,Managed Network Switch 48-Port (Variant #60),CAT-005,IT Hardware & Cloud Infrastructure,2009.46,Unit,2023-01-01
+PRD-0089,Heavy Duty Ball Bearing 6205 (Variant #89),CAT-002,Industrial Machinery & Tools,32.14,Unit,2023-01-01
+PRD-0099,Industrial Power Supply 24V 10A (Variant #99),CAT-003,Electronic & Electrical,91.9,Unit,2023-01-01
+PRD-0039,Thunderbolt 4 Docking Station,CAT-005,IT Hardware & Cloud Infrastructure,210.0,Unit,2023-01-01
+PRD-0045,HEPA Air Filter Industrial,CAT-006,Facilities & MRO,65.0,Unit,2023-01-01
+PRD-0048,High-Visibility Class 3 Vest,CAT-006,Facilities & MRO,18.0,Unit,2023-01-01
+PRD-0080,Heavy Duty Ball Bearing 6205 (Variant #80),CAT-002,Industrial Machinery & Tools,25.63,Unit,2023-01-01
+PRD-0098,Carbon Fiber Composite Sheet (Variant #98),CAT-001,Raw Industrial Materials,370.38,Square Meter,2023-01-01
+PRD-0010,Hydraulic Piston Assembly,CAT-002,Industrial Machinery & Tools,850.0,Unit,2023-01-01
+PRD-0017,Microcontroller STM32 Board,CAT-003,Electronic & Electrical,22.5,Unit,2023-01-01
+PRD-0024,Solid State Relay 40A,CAT-003,Electronic & Electrical,42.0,Unit,2023-01-01
+PRD-0026,Heat-Treated Euro Pallet,CAT-004,Packaging & Freight Supplies,24.5,Unit,2023-01-01
+PRD-0049,Precision Metrology Calibration,CAT-007,Professional & Engineering Services,1200.0,Session,2023-01-01
+PRD-0051,Machinery Vibration Diagnostic,CAT-007,Professional & Engineering Services,1800.0,Day,2023-01-01
+PRD-0064,Dual-Band Access Point Wi-Fi 6 (Variant #64),CAT-005,IT Hardware & Cloud Infrastructure,375.61,Unit,2023-01-01
+PRD-0091,Tamper-Evident Security Seal (Variant #91),CAT-004,Packaging & Freight Supplies,21.89,Pack (100),2023-01-01
+PRD-0093,Aerospace Grade Aluminum Bar (Variant #93),CAT-001,Raw Industrial Materials,564.9,Metric Ton,2023-01-01
+PRD-0006,Nickel Alloy Strip,CAT-001,Raw Industrial Materials,540.0,Kilogram,2023-01-01
+PRD-0013,Industrial Servo Motor 1.5kW,CAT-002,Industrial Machinery & Tools,1150.0,Unit,2023-01-01
+PRD-0032,Thermal Shipping Labels 4x6,CAT-004,Packaging & Freight Supplies,28.0,Roll (1000),2023-01-01
+PRD-0050,ISO Environmental Audit Service,CAT-007,Professional & Engineering Services,3500.0,Audit,2023-01-01
+PRD-0055,Control System PLC Programming,CAT-007,Professional & Engineering Services,140.0,Hour,2023-01-01
+PRD-0059,Kevlar Cut-Resistant Gloves (Variant #59),CAT-006,Facilities & MRO,16.25,Pair,2023-01-01
+PRD-0073,Kevlar Cut-Resistant Gloves (Variant #73),CAT-006,Facilities & MRO,12.59,Pair,2023-01-01
+PRD-0075,Thermal Imaging Electrical Inspection (Variant #75),CAT-007,Professional & Engineering Services,1794.89,Inspection,2023-01-01
+PRD-0077,Metallurgical Lab Analysis (Variant #77),CAT-007,Professional & Engineering Services,686.3,Sample,2023-01-01
+PRD-0087,Tamper-Evident Security Seal (Variant #87),CAT-004,Packaging & Freight Supplies,26.49,Pack (100),2023-01-01
+PRD-0096,Steel Strapping Band 19mm (Variant #96),CAT-004,Packaging & Freight Supplies,80.5,Roll (300m),2023-01-01
+PRD-0067,Metallurgical Lab Analysis (Variant #67),CAT-007,Professional & Engineering Services,668.16,Sample,2023-01-01
+PRD-0070,High-Visibility Class 3 Vest (Variant #70),CAT-006,Facilities & MRO,19.16,Unit,2023-01-01
+PRD-0072,Metallurgical Lab Analysis (Variant #72),CAT-007,Professional & Engineering Services,810.71,Sample,2023-01-01
+PRD-0074,Industrial Servo Motor 1.5kW (Variant #74),CAT-002,Industrial Machinery & Tools,1430.7,Unit,2023-01-01
+PRD-0086,Uninterruptible Power Supply 3kVA (Variant #86),CAT-005,IT Hardware & Cloud Infrastructure,1168.81,Unit,2023-01-01
+PRD-0092,Laser Alignment Sensor (Variant #92),CAT-002,Industrial Machinery & Tools,815.45,Unit,2023-01-01
+PRD-0012,Heavy Duty Ball Bearing 6205,CAT-002,Industrial Machinery & Tools,28.0,Unit,2023-01-01
+PRD-0023,Circuit Breaker 3-Phase 32A,CAT-003,Electronic & Electrical,58.0,Unit,2023-01-01
+PRD-0028,Desiccant Silica Gel Packs,CAT-004,Packaging & Freight Supplies,15.0,Box (500),2023-01-01
+PRD-0044,Industrial Spill Kit 50 Gallon,CAT-006,Facilities & MRO,280.0,Unit,2023-01-01
+PRD-0082,Industrial Spill Kit 50 Gallon (Variant #82),CAT-006,Facilities & MRO,314.68,Unit,2023-01-01
+PRD-0094,Variable Frequency Drive 5HP (Variant #94),CAT-002,Industrial Machinery & Tools,740.22,Unit,2023-01-01
+PRD-0097,Precision Metrology Calibration (Variant #97),CAT-007,Professional & Engineering Services,1346.54,Session,2023-01-01
+PRD-0002,Aerospace Grade Aluminum Bar,CAT-001,Raw Industrial Materials,620.0,Metric Ton,2023-01-01
+PRD-0020,Relay Module 8-Channel,CAT-003,Electronic & Electrical,34.0,Unit,2023-01-01
+PRD-0061,Cold Rolled Steel Coil (Variant #61),CAT-001,Raw Industrial Materials,399.37,Metric Ton,2023-01-01
+PRD-0066,Optical Encoder 1000PPR (Variant #66),CAT-003,Electronic & Electrical,132.27,Unit,2023-01-01
+PRD-0068,Heat-Treated Euro Pallet (Variant #68),CAT-004,Packaging & Freight Supplies,24.34,Unit,2023-01-01
+PRD-0071,Heat-Treated Euro Pallet (Variant #71),CAT-004,Packaging & Freight Supplies,26.23,Unit,2023-01-01
+PRD-0021,Optical Encoder 1000PPR,CAT-003,Electronic & Electrical,145.0,Unit,2023-01-01
+PRD-0022,High-Voltage Terminal Block,CAT-003,Electronic & Electrical,12.5,Strip (10),2023-01-01
+PRD-0033,Enterprise Rack Server 1U,CAT-005,IT Hardware & Cloud Infrastructure,4200.0,Unit,2023-01-01
+PRD-0042,Kevlar Cut-Resistant Gloves,CAT-006,Facilities & MRO,14.5,Pair,2023-01-01
+PRD-0062,CNC Carbide End Mill 12mm (Variant #62),CAT-002,Industrial Machinery & Tools,52.11,Unit,2023-01-01
+PRD-0078,Relay Module 8-Channel (Variant #78),CAT-003,Electronic & Electrical,38.01,Unit,2023-01-01
+PRD-0005,Carbon Fiber Composite Sheet,CAT-001,Raw Industrial Materials,320.0,Square Meter,2023-01-01
+PRD-0009,CNC Carbide End Mill 12mm,CAT-002,Industrial Machinery & Tools,48.5,Unit,2023-01-01
+PRD-0025,Heavy Corrugated Box 24x18x18,CAT-004,Packaging & Freight Supplies,3.2,Unit,2023-01-01
+PRD-0035,Developer Workstation Laptop,CAT-005,IT Hardware & Cloud Infrastructure,1600.0,Unit,2023-01-01
+PRD-0036,NVMe Enterprise SSD 3.84TB,CAT-005,IT Hardware & Cloud Infrastructure,480.0,Unit,2023-01-01
+PRD-0038,Uninterruptible Power Supply 3kVA,CAT-005,IT Hardware & Cloud Infrastructure,1250.0,Unit,2023-01-01
+PRD-0043,Safety Eyewear Anti-Fog,CAT-006,Facilities & MRO,8.5,Unit,2023-01-01
+PRD-0100,Laser Alignment Sensor (Variant #100),CAT-002,Industrial Machinery & Tools,783.19,Unit,2023-01-01

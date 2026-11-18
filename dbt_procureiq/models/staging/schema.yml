@@ -1,0 +1,95 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: "Raw ingested procurement source data tables with operational lineage columns"
+    tables:
+      - name: bronze_vendors
+        description: "Raw vendor master records"
+      - name: bronze_departments
+        description: "Raw corporate department cost center records"
+      - name: bronze_categories
+        description: "Raw procurement commodity category records"
+      - name: bronze_products
+        description: "Raw SKU and material master records"
+      - name: bronze_date_dimension
+        description: "Enterprise calendar and fiscal dates"
+      - name: bronze_purchase_orders
+        description: "Raw transactional purchase order header records"
+      - name: bronze_purchase_order_items
+        description: "Raw purchase order line item records"
+      - name: bronze_deliveries
+        description: "Raw receiving dock delivery inspection records"
+      - name: bronze_invoices
+        description: "Raw supplier invoice records"
+      - name: bronze_vendor_compliance
+        description: "Raw regulatory certificate and audit records"
+
+models:
+  - name: stg_vendors
+    description: "Cleaned and standardized vendor dimension records"
+    columns:
+      - name: vendor_id
+        description: "Primary key for vendor"
+        tests:
+          - unique
+          - not_null
+      - name: vendor_name
+        description: "Cleaned legal business name"
+        tests:
+          - not_null
+      - name: risk_rating
+        description: "Initial risk rating"
+        tests:
+          - accepted_values:
+              values: ['Low', 'Medium', 'High']
+
+  - name: stg_purchase_orders
+    description: "Cleaned purchase order headers with derived fulfilment indicators"
+    columns:
+      - name: po_id
+        description: "Primary key for purchase order"
+        tests:
+          - unique
+          - not_null
+      - name: vendor_id
+        description: "Foreign key to vendor dimension"
+        tests:
+          - not_null
+      - name: po_status
+        description: "Lifecycle status of the PO"
+        tests:
+          - accepted_values:
+              values: ['Fulfilled', 'Partially Fulfilled', 'Cancelled', 'Open']
+
+  - name: stg_deliveries
+    description: "Cleaned receiving dock deliveries with delay calculation and quality inspection results"
+    columns:
+      - name: delivery_id
+        description: "Primary key for shipment"
+        tests:
+          - unique
+          - not_null
+      - name: po_id
+        description: "Foreign key to purchase order"
+        tests:
+          - not_null
+      - name: quality_inspection_result
+        tests:
+          - accepted_values:
+              values: ['Pass', 'Minor Defect', 'Fail/Rejected']
+
+  - name: stg_invoices
+    description: "Cleaned vendor invoices with 3-way match discrepancy tagging"
+    columns:
+      - name: invoice_id
+        description: "Primary key for invoice"
+        tests:
+          - unique
+          - not_null
+      - name: po_id
+        tests:
+          - not_null
+      - name: invoice_amount
+        tests:
+          - not_null
